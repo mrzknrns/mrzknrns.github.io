@@ -6,7 +6,7 @@ title: ""
 
 ```
 
-![](/mrzknrns.github.io/src/images/namelogo.png)
+![](src/images/namelogo.png)
 
 # [Link to Course Content from Week 1 to Week 9](https://github.com/mrzknrns/mrzknrns.git){.uri}
 
