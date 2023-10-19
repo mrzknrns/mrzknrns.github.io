@@ -6,7 +6,6 @@ title: "Marzuki Nooranas"
 
 ```
 
-
 ### [Link to Course Content from Week 1 to Week 9](https://github.com/mrzknrns/mrzknrns.git){.uri}
 
 ```{r, eval=TRUE,echo=FALSE}
