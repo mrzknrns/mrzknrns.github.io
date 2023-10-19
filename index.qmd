@@ -8,9 +8,9 @@ title: ""
 
 ![](images/namelogo.png)
 
-# **Link to Course Content**
+# 
 
-<https://github.com/mrzknrns/NM2207.git>
+# [Link to Course Content from Week 1 to Week 9](https://github.com/mrzknrns/mrzknrns.git){.uri}
 
 ```{r, eval=TRUE,echo=FALSE}
 
