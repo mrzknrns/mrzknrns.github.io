@@ -6,9 +6,9 @@ title: ""
 
 ```
 
-![](/mrzknrns.github.io/src/images/namelogo.png)
+![](src/images/namelogo.png)
 
-# [Link to Course Content from Week 1 to Week 9](https://github.com/mrzknrns/mrzknrns.git){.uri}
+### [Link to Course Content from Week 1 to Week 9](https://github.com/mrzknrns/mrzknrns.git){.uri}
 
 ```{r, eval=TRUE,echo=FALSE}
 
@@ -16,7 +16,7 @@ library(grid)
 library(gridExtra)
 library(png)
 
-img1 <- readPNG("src/images//me_icon.png")
+img1 <- readPNG("src/images/me_icon.png")
 img2 <- readPNG("src/images/68FD47AF-F084-4FCC-85AC-4712EEC1B685.PNG")
 
 grid.arrange(rasterGrob(img1, width=unit(1.1,"npc"), height=unit(0.8,"npc"), gp=gpar(mai=c(0,0,0,0))), 
