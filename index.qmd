@@ -87,9 +87,6 @@ Such experiences provide me with firsthand insights into how different societies
 ```
 :::
 
-```{=html}
-<script async src="https://www.tiktok.com/embed.js"></script>
-```
 # **My Past Work**
 
 ## National University of Singapore
