@@ -1,10 +1,12 @@
 ---
-title: "Marzuki Nooranas"
+title: "Well hello there!"
 ---
 
 ```{r, eval=TRUE,echo=FALSE}
 
 ```
+
+![](src/images/namelogo.png){fig-align="left" width="724"}
 
 ### [Link to Course Content from Week 1 to Week 9](https://github.com/mrzknrns/mrzknrns.git){.uri}
 
