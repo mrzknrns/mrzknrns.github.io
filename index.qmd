@@ -29,30 +29,32 @@ Hello there! My name is Marzuki Nooranas - or *Marz* for short! I am currently i
 
 I have always been fascinated by how society functions and its intricate connections, my passion for understanding the world around us, is driven by a desire to foster meaningful connections within all communities!
 
+## My overland journey from Singapore to Vietnam!
+
 To demonstrate this, I embark of frequent backpacking trips across Southeast Asia, and actively engage myself in the cultures and learn about their customs.
 
-Such experiences provide me with firsthand insights into how different societies interact, and not only broadening my horizons, but also fostering empathy across different communities. Here's a little snippet - My overland journey from Singapore to Vietnam!
+Such experiences provide me with firsthand insights into how different societies interact, and not only broadening my horizons, but also fostering empathy across different communities. Here's a little snippet -
 
 ```{=html}
 <style>
 body, html {
   margin: 0;
   padding: 0;
-  overflow-x: hidden; /* prevent horizontal scroll */
+  overflow-x: hidden; 
 }
 
 .tiktok-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  width: 100%; /* ensure the container takes the full width */
+  width: 105%; 
 }
 
 .tiktok-embed {
-  box-sizing: border-box; /* make sure padding and borders are included in total width */
+  box-sizing: border-box;
   max-width: 100%;
   flex: 1 1 300px;
-  margin: 0 auto; /* center the blockquote */
+  margin: 0 auto; 
 }
 
 @media screen and (max-width: 600px) {
@@ -69,7 +71,7 @@ body, html {
 
 <a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed">@mentaikofries_</a>
 
-<p>overland travel for the vibesss </p>
+<p>overland travel for the vibesss</p>
 
 <a target="_blank" title="♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗" href="https://www.tiktok.com/music/original-sound-7178872451673459457?refer=embed">♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗</a>
 
