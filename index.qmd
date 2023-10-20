@@ -35,17 +35,22 @@ Such experiences provide me with firsthand insights into how different societies
 
 ```{=html}
 <style>
-    .tiktok-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 20px; /* Adjust for spacing between the embeds */
-    }
+.tiktok-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
-    .tiktok-embed {
-        width: 50%; /* Adjust based on your desired width */
-        max-width: none;
-    }
+.tiktok-embed {
+  max-width: 100%;
+  flex: 1 1 300px;
+}
+
+@media screen and (max-width: 600px) {
+  .tiktok-embed {
+    min-width: auto;
+  }
+}
 </style>
 ```
 ::: tiktok-container
