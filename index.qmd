@@ -35,15 +35,24 @@ Such experiences provide me with firsthand insights into how different societies
 
 ```{=html}
 <style>
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* prevent horizontal scroll */
+}
+
 .tiktok-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  width: 100%; /* ensure the container takes the full width */
 }
 
 .tiktok-embed {
+  box-sizing: border-box; /* make sure padding and borders are included in total width */
   max-width: 100%;
   flex: 1 1 300px;
+  margin: 0 auto; /* center the blockquote */
 }
 
 @media screen and (max-width: 600px) {
@@ -62,6 +71,8 @@ Such experiences provide me with firsthand insights into how different societies
 
 <p>overland travel for the vibesss </p>
 
+<a target="_blank" title="♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗" href="https://www.tiktok.com/music/original-sound-7178872451673459457?refer=embed">♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗</a>
+
 </section>
 
 </blockquote>
@@ -78,6 +89,8 @@ Such experiences provide me with firsthand insights into how different societies
 <a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed">@mentaikofries_</a>
 
 <p>nha trang is my favvvvvv</p>
+
+<a target="_blank" title="♬ moth to a flame x after hours - trlixqy" href="https://www.tiktok.com/music/moth-to-a-flame-x-after-hours-7174186663990561579?refer=embed">♬ moth to a flame x after hours - trlixqy</a>
 
 </section>
 
