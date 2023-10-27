@@ -8,7 +8,7 @@ title: "Well hello there!"
 
 ![](src/images/namelogo.png){fig-align="left" width="724"}
 
-### [Link to Course Content from Week 1 to Week 9](https://github.com/mrzknrns/mrzknrns.git){.uri}
+### [Link to Course Content here!](https://github.com/mrzknrns/mrzknrns.git){.uri}
 
 ```{r, eval=TRUE,echo=FALSE}
 
