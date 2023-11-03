@@ -1,0 +1,114 @@
+---
+title: "Singapore's Public Housing Affordability"
+---
+
+![](src/images/HDB-flat-after-divorce.jpg){width="698"}
+
+## Is Public Housing in Singapore Affordable for the Average Singaporean?
+
+### Investigating Singapore's Resale Flat Prices from 1990 to 2023
+
+<p>
+
+</p>
+
+In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD \$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). While Mr Tharman argued the housing grants could provide support for low-income household, many Singaporeans expressed concern about the long-term viability of such claims, especially in the face of the constant rising cost of living and property prices.
+
+<p>
+
+</p>
+
+### Trend of HDB Resale Prices in Singapore
+
+<p>
+
+</p>
+
+Line and Bar Graph
+
+```{r, eval=TRUE,echo=FALSE}
+library(shiny)
+library(ggplot2)
+
+# Placeholder example using the pressure dataset
+ggplot(pressure, aes(x = temperature, y = pressure)) +
+  geom_line() +
+  labs(title = "Title", x = "x-axis", y = "y-axis")
+```
+
+### The Distribution of Resale Flat Prices of Different Flat Types
+
+<p>
+
+</p>
+
+Box Plot Placeholder
+
+```{r, eval=TRUE,echo=FALSE}
+ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
+  geom_boxplot() +
+  labs(title = "Title", 
+       x = "x-axis", 
+       y = "y-axis")
+
+```
+
+### The Impact of Remaining Lease on Resale Prices
+
+<p>
+
+</p>
+
+Scatter Plot
+
+```{r, eval=TRUE,echo=FALSE}
+
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  geom_point() +
+  labs(title = "Title", 
+       x = "x-axis", 
+       y = "y-axis")
+```
+
+### The influence of Estate on Resale Prices
+
+<p>
+
+</p>
+
+Violin Plot
+
+```{r, eval=TRUE,echo=FALSE}
+ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
+  geom_violin(trim=FALSE) +
+  labs(title = "TITLE", 
+       x = "x-axis", 
+       y = "y-axis")
+
+```
+
+### Assessing Affordability of Resale Flats in Singapore
+
+<p>
+
+</p>
+
+Still considering
+
+```{r, eval=FALSE,echo=FALSE}
+
+```
+
+### Conclusion
+
+<p>
+
+</p>
+
+```{r, eval=TRUE,echo=FALSE}
+
+```
+
+```{r}
+
+```
