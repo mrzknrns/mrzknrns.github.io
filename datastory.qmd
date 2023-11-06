@@ -24,12 +24,10 @@ In Singapore, housing affordability has been an increasing worry for future Sing
 
 </p>
 
-
-
 Line and Bar Graph
 
 ```{r, eval=TRUE,echo=FALSE, message=FALSE, warning=FALSE}
-# Load the required libraries
+
 library(tidyverse)
 library(tidyr)
 library(ggplot2)
@@ -37,7 +35,6 @@ library(scales)
 ```
 
 ```{r, eval=TRUE,echo=FALSE}
-# Load the datasets
 data1999 <- read.csv("docs/src/data/ResaleFlatPrices1999.csv")
 data2022 <- read.csv("docs/src/data/ResaleFlatPrices2022.csv")
 
