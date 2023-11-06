@@ -6,25 +6,20 @@ title: "Singapore's Public Housing Affordability"
 
 ## Is Public Housing in Singapore Affordable for the Average Singaporean?
 
-### Investigating Singapore's Resale Flat Prices from 1990 to 2023
-
-<p>
-
+### Investigating Singapore's Resale Flat Prices from 1990 to 2022
+<p></p>
+<p style="text-align: justify;">
+In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). While Mr Tharman argued the housing grants could provide support for low-income household, many Singaporeans expressed concern about the long-term viability of such claims, especially in the face of the constant rising cost of living and property prices.
 </p>
 
-In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD \$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). While Mr Tharman argued the housing grants could provide support for low-income household, many Singaporeans expressed concern about the long-term viability of such claims, especially in the face of the constant rising cost of living and property prices.
-
-<p>
-
+<p style="text-align: justify;">
+Now, this brings an important question to whether public housing in Singapore truly affordable for the average Singaporean in the future. This analysis will also explore the evolving housing market that may impact the affordability of homes for future generations of Singaporeans. The above concerns will uncover the complexities of the housing market, analyse potential long-term trend, also seek to understand that while variables such as estate, size or remaining lease play significant roles, this analysis aims to identity the most influential factors.
 </p>
-
 ### Trend of HDB Resale Prices in Singapore
 
 <p>
 
 </p>
-
-Line and Bar Graph
 
 ```{r, eval=TRUE,echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -41,13 +36,12 @@ data2022 <- read.csv("docs/src/data/ResaleFlatPrices2022.csv")
 
 average_prices_1999 <- data1999 %>%
   group_by(flat_type) %>%
-  summarise(AveragePrice1999 = mean(resale_price))
+  summarise(Mean1999 = mean(resale_price))
 
 
 average_prices_2022 <- data2022 %>%
   group_by(flat_type) %>%
-  summarise(AveragePrice2022 = mean(resale_price))
-
+  summarise(Mean2022 = mean(resale_price))
 
 combined_data <- merge(average_prices_1999, average_prices_2022, by = "flat_type")
 
@@ -57,15 +51,28 @@ long_data <- pivot_longer(combined_data, cols = -flat_type, names_to = "Year", v
 ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Year)) +
   geom_line() +
   geom_point() +
-  geom_text(aes(label = round(AveragePrice, 2)), hjust = 1, vjust = 1, check_overlap = TRUE) +
+  geom_text(aes(label = round(AveragePrice, 2)), hjust = 1, vjust = -1, check_overlap = TRUE, size = 3) +
   scale_y_continuous(labels = label_comma()) + 
-  labs(title = "Average Resale Price Increment for Each Flat Type (1999 vs 2022)",
+  labs(title = "Average Resale Price Each Flat Type in 1999 and 2022 in SG Dollars",
        x = "Flat Type",
        y = "Average Resale Price",
        color = "Year") +
   theme_minimal()
 
 ```
+<p style="text-align: justify;">
+To understand the trend of housing prices in Singapore, the analysis will use the available data sets from [this site](www.data.gov.sg). The publicly available data contains historical sales figures on yearly bases, and can be used to access market dynamics and predict future trend.
+</p>
+
+<p>
+
+</p>
+
+-   Talk about how the slopes got steeper.
+-   There is a bigger price gap from each flat type to the next flat type.
+-   Compare the price differences on each flat type.
+-   Do some calculations here
+-   Make an interactive shiny for bar graph
 
 ### The Distribution of Resale Flat Prices of Different Flat Types
 
