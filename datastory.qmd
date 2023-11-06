@@ -24,16 +24,50 @@ In Singapore, housing affordability has been an increasing worry for future Sing
 
 </p>
 
+
+
 Line and Bar Graph
 
-```{r, eval=TRUE,echo=FALSE}
-library(shiny)
+```{r, eval=TRUE,echo=FALSE, message=FALSE, warning=FALSE}
+# Load the required libraries
+library(tidyverse)
+library(tidyr)
 library(ggplot2)
+library(scales)
+```
 
-# Placeholder example using the pressure dataset
-ggplot(pressure, aes(x = temperature, y = pressure)) +
+```{r, eval=TRUE,echo=FALSE}
+# Load the datasets
+data1999 <- read.csv("docs/src/data/ResaleFlatPrices1999.csv")
+data2022 <- read.csv("docs/src/data/ResaleFlatPrices2022.csv")
+
+
+average_prices_1999 <- data1999 %>%
+  group_by(flat_type) %>%
+  summarise(AveragePrice1999 = mean(resale_price))
+
+
+average_prices_2022 <- data2022 %>%
+  group_by(flat_type) %>%
+  summarise(AveragePrice2022 = mean(resale_price))
+
+
+combined_data <- merge(average_prices_1999, average_prices_2022, by = "flat_type")
+
+long_data <- pivot_longer(combined_data, cols = -flat_type, names_to = "Year", values_to = "AveragePrice")
+
+
+ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Year)) +
   geom_line() +
-  labs(title = "Title", x = "x-axis", y = "y-axis")
+  geom_point() +
+  geom_text(aes(label = round(AveragePrice, 2)), hjust = 1, vjust = 1, check_overlap = TRUE) +
+  scale_y_continuous(labels = label_comma()) + 
+  labs(title = "Average Resale Price Increment for Each Flat Type (1999 vs 2022)",
+       x = "Flat Type",
+       y = "Average Resale Price",
+       color = "Year") +
+  theme_minimal()
+
 ```
 
 ### The Distribution of Resale Flat Prices of Different Flat Types
