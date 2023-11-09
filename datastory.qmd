@@ -29,19 +29,17 @@ library(ggplot2)
 library(scales)
 ```
 
-```{r, eval=TRUE,echo=FALSE}
+```{r, eval=TRUE,echo=FALSE, fig.align='center'}
 data1999 <- read.csv("docs/src/data/ResaleFlatPrices1999.csv")
 data2022 <- read.csv("docs/src/data/ResaleFlatPrices2022.csv")
 
-
 average_prices_1999 <- data1999 %>%
   group_by(flat_type) %>%
-  summarise(Mean1999 = mean(resale_price))
-
+  summarise("1999" = mean(resale_price))
 
 average_prices_2022 <- data2022 %>%
   group_by(flat_type) %>%
-  summarise(Mean2022 = mean(resale_price))
+  summarise("2022" = mean(resale_price))
 
 combined_data <- merge(average_prices_1999, average_prices_2022, by = "flat_type")
 
@@ -49,19 +47,20 @@ long_data <- pivot_longer(combined_data, cols = -flat_type, names_to = "Year", v
 
 
 ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Year)) +
-  geom_line() +
-  geom_point() +
-  geom_text(aes(label = round(AveragePrice, 2)), hjust = 1, vjust = -1, check_overlap = TRUE, size = 3) +
+  geom_line(linewidth = 1.5) +
+  geom_point(size = 3) +
+  geom_text(aes(label = sprintf("$%.2f", AveragePrice)), hjust = 1, vjust = -1, check_overlap = TRUE, size = 3) +
   scale_y_continuous(labels = label_comma()) + 
-  labs(title = "Average Resale Price Each Flat Type in 1999 and 2022 in SG Dollars",
+  labs(title = "Average Resale Price in 1999 and 2022 (Flat Type, SGD)",
        x = "Flat Type",
        y = "Average Resale Price",
        color = "Year") +
   theme_minimal()
 
 ```
+
 <p style="text-align: justify;">
-To understand the trend of housing prices in Singapore, the analysis will use the available data sets from [this site](www.data.gov.sg). The publicly available data contains historical sales figures on yearly bases, and can be used to access market dynamics and predict future trend.
+To understand the trend of housing prices in Singapore, the analysis will use the available data sets from [this site](www.data.gov.sg). The publicly available data contains historical sales figures on yearly bases, and can be used to access market dynamics and predict future trend. Before moving on to the deeper analysis
 </p>
 
 <p>
@@ -74,6 +73,26 @@ To understand the trend of housing prices in Singapore, the analysis will use th
 -   Do some calculations here
 -   Make an interactive shiny for bar graph
 
+Interactive Bar Graph Placeholder
+
+```{r, eval=TRUE,echo=FALSE}
+
+
+library(ggplot2)
+
+data <- data.frame(
+  category = c("A", "B", "C", "D"),
+  value = c(23, 45, 12, 78)
+)
+
+ggplot(data, aes(x = category, y = value)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  labs(title = "Simple Bar Graph", x = "Category", y = "Value")
+
+
+```
+<p></p>
 ### The Distribution of Resale Flat Prices of Different Flat Types
 
 <p>
