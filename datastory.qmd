@@ -186,12 +186,16 @@ ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
 ```
 
 ### Assessing Affordability of Resale Flats in Singapore
-
+<p style="text-align: justify;">
+So far, we have looked at the prices of the resale flats, factors such as remaining lease and estate, we will now access if the resale flats are truly affordable for Singaporeans - compared with the average income earned. 
 ```{r, eval=FALSE,echo=FALSE}
 
 ```
 
 ### Conclusion
+<p style="text-align: justify;">
+You might be thinking - " Aren't there build-to-order (BTO) flats that are way priced way lower with other grants for purchase?" - and you know what, you are absolutely right! But are you willing to ballot with tens and thousands of couples, wait 5-6 years, and then face the possibility of being turned down?
+</p>
 
 ```{r, eval=TRUE,echo=FALSE}
 
