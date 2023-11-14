@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(scales)
 
-#combining two files to for comparisonnn
+#combining two files to for comparison
 combine_data <- function(data1990_path, data2022_path) {
   data1990 <- read.csv(data1990_path)
   data2022 <- read.csv(data2022_path)
