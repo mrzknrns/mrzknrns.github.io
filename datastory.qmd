@@ -105,23 +105,10 @@ With that, we can understand that the widening gap of prices could create a cost
 Now let's look at the price increment individually for both years, compared with the same flat type.
 </p>
 
-```{r, eval=TRUE,echo=FALSE}
+<iframe height="550" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/bargraph/">
 
+</iframe>
 
-library(ggplot2)
-
-data <- data.frame(
-  category = c("A", "B", "C", "D"),
-  value = c(23, 45, 12, 78)
-)
-
-ggplot(data, aes(x = category, y = value)) +
-  geom_bar(stat = "identity") +
-  theme_minimal() +
-  labs(title = "Simple Bar Graph", x = "Category", y = "Value")
-
-
-```
 <p style="text-align: justify;">
 The interactive graph above compares 
 </p>
