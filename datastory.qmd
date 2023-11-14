@@ -4,27 +4,38 @@ title: "Singapore's Public Housing Affordability"
 
 ![](src/images/HDB-flat-after-divorce.jpg){width="698"}
 
-
-
 ## Is Public Housing Affordable for Singaporeans?
 
 ### Investigating Singapore's Resale Flat Prices from 1990 to 2022
-<p></p>
-<p style="text-align: justify;">
-In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). While Mr Tharman argued the housing grants could provide support for low-income household, many Singaporeans expressed concern about the long-term viability of such claims, especially in the face of the constant rising cost of living and property prices.
+
+<p>
+
 </p>
 
 <p style="text-align: justify;">
+
+In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). While Mr Tharman argued the housing grants could provide support for low-income household, many Singaporeans expressed concern about the long-term viability of such claims, especially in the face of the constant rising cost of living and property prices.
+
+</p>
+
+<p style="text-align: justify;">
+
 Now, this brings an important question to whether public housing in Singapore truly affordable for the average Singaporean in the future. This analysis will also explore the evolving housing market that may impact the affordability of homes for future generations of Singaporeans. The above concerns will uncover the complexities of the housing market, analyse potential long-term trend, also seek to understand that while variables such as estate, size or remaining lease play significant roles, this analysis aims to identity the most influential factors.
 
-According to Kumar (2022), 
+</p>
+
+<p style="text-align: justify;">
+
+According to Kumar (2022),
+
 </p>
 
 ![](docs/images/dreamhome.png){width="698"}
 
-
 <p style="text-align: justify;">
+
 To understand the trend of housing prices in Singapore, the analysis will use the available data sets from [this site](www.data.gov.sg). The publicly available data contains historical sales figures on yearly bases, and can be used to access market dynamics and predict future trend. Before moving on to the deeper analysis
+
 </p>
 
 ### Trend of HDB Resale Prices in Singapore
@@ -71,7 +82,6 @@ ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Yea
 
 ```
 
-
 <p>
 
 </p>
@@ -83,6 +93,10 @@ ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Yea
 -   Make an interactive shiny for bar graph
 
 Interactive Bar Graph Placeholder
+
+<iframe height="400" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/example/"></iframe>
+
+
 
 ```{r, eval=TRUE,echo=FALSE}
 
@@ -101,7 +115,11 @@ ggplot(data, aes(x = category, y = value)) +
 
 
 ```
-<p></p>
+
+<p>
+
+</p>
+
 ### The Distribution of Resale Flat Prices of Different Flat Types
 
 <p>
