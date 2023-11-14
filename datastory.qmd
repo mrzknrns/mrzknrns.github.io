@@ -13,35 +13,27 @@ title: "Singapore's Public Housing Affordability"
 </p>
 
 <p style="text-align: justify;">
-
 In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). While Mr Tharman argued the housing grants could provide support for low-income household, many Singaporeans expressed concern about the long-term viability of such claims, especially in the face of the constant rising cost of living and property prices.
-
 </p>
 
 <p style="text-align: justify;">
-
 Now, this brings an important question to whether public housing in Singapore truly affordable for the average Singaporean in the future. This analysis will also explore the evolving housing market that may impact the affordability of homes for future generations of Singaporeans. The above concerns will uncover the complexities of the housing market, analyse potential long-term trend, also seek to understand that while variables such as estate, size or remaining lease play significant roles, this analysis aims to identity the most influential factors.
-
 </p>
 
 <p style="text-align: justify;">
-
 According to Kumar (2022),
-
 </p>
 
-![](docs/images/dreamhome.png){width="698"}
-
 <p style="text-align: justify;">
-
+![](docs/images/dreamhome.png){width="698"}
+</p>
+<p style="text-align: justify;">
 To understand the trend of housing prices in Singapore, the analysis will use the available data sets from [this site](www.data.gov.sg). The publicly available data contains historical sales figures on yearly bases, and can be used to access market dynamics and predict future trend. Before moving on to the deeper analysis
-
 </p>
 
 ### Trend of HDB Resale Prices in Singapore
 
-<p>
-
+<p style="text-align: justify;">
 </p>
 
 ```{r, eval=TRUE,echo=FALSE, message=FALSE, warning=FALSE}
@@ -58,7 +50,7 @@ data2022 <- read.csv("docs/src/data/ResaleFlatPrices2022.csv")
 
 average_prices_1999 <- data1999 %>%
   group_by(flat_type) %>%
-  summarise("1999" = mean(resale_price))
+  summarise("1990" = mean(resale_price))
 
 average_prices_2022 <- data2022 %>%
   group_by(flat_type) %>%
@@ -74,7 +66,7 @@ ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Yea
   geom_point(size = 3) +
   geom_text(aes(label = sprintf("$%.2f", AveragePrice)), hjust = 1, vjust = -1, check_overlap = TRUE, size = 3) +
   scale_y_continuous(labels = label_comma()) + 
-  labs(title = "Average Resale Price in 1999 and 2022 (Flat Type, SGD)",
+  labs(title = "Average Resale Price in 1990 and 2022 (Flat Type, SGD)",
        x = "Flat Type",
        y = "Average Resale Price",
        color = "Year") +
@@ -82,7 +74,7 @@ ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Yea
 
 ```
 
-<p>
+<p style="text-align: justify;">
 
 </p>
 
@@ -93,9 +85,6 @@ ggplot(long_data, aes(x = flat_type, y = AveragePrice, group = Year, color = Yea
 -   Make an interactive shiny for bar graph
 
 Interactive Bar Graph Placeholder
-
-<iframe height="400" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/example/"></iframe>
-
 
 
 ```{r, eval=TRUE,echo=FALSE}
@@ -116,30 +105,22 @@ ggplot(data, aes(x = category, y = value)) +
 
 ```
 
-<p>
-
+<p style="text-align: justify;">
 </p>
 
 ### The Distribution of Resale Flat Prices of Different Flat Types
 
-<p>
+<p style="text-align: justify;">
 
 </p>
 
 Box Plot Placeholder
 
-```{r, eval=TRUE,echo=FALSE}
-ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
-  geom_boxplot() +
-  labs(title = "Title", 
-       x = "x-axis", 
-       y = "y-axis")
-
-```
+<iframe height="450" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/boxplot/"></iframe>
 
 ### The Impact of Remaining Lease on Resale Prices
 
-<p>
+<p style="text-align: justify;">
 
 </p>
 
@@ -156,8 +137,7 @@ ggplot(mtcars, aes(x = wt, y = mpg)) +
 
 ### The influence of Estate on Resale Prices
 
-<p>
-
+<p style="text-align: justify;">
 </p>
 
 Violin Plot
@@ -173,7 +153,7 @@ ggplot(mtcars, aes(x = factor(cyl), y = mpg)) +
 
 ### Assessing Affordability of Resale Flats in Singapore
 
-<p>
+<p style="text-align: justify;">
 
 </p>
 
@@ -185,7 +165,7 @@ Still considering
 
 ### Conclusion
 
-<p>
+<p style="text-align: justify;">
 
 </p>
 
