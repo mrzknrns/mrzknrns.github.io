@@ -134,7 +134,13 @@ With that, we can understand that the widening gap of prices could create a cost
 
 <p style="text-align: justify;">
 
-Now let's look at the price increment individually for both years, compared with the same flat type. The graph presented shows a great difference for a 4-room flat between 1990 and 2022. The year 1990 with an average price of SGD\$81,525 and 2022 with an average price of SGD\$525,092, represented by green and orange respectively. In the graph below, feel free to explore and compare the prices of other flat types between 1990 and 2022!
+Now let's look at the price increment individually for both years, compared with the same flat type. The graph presented shows a great difference for a 4-room flat between 1990 and 2022.
+
+</p>
+
+<p style="text-align: justify;">
+
+The year 1990 with an average price of SGD\$81,525 and 2022 with an average price of SGD\$525,092, represented by green and orange respectively. In the graph below, feel free to explore and compare the prices of other flat types between 1990 and 2022!
 
 </p>
 
@@ -224,23 +230,37 @@ Put yourself in the shoes of the buyer, would you get a house with longer remain
 
 ### The Influence of Estate on Resale Prices
 
-<p style="text-align: justify;">
-
-We can agree that price is an important consideration for purchasing a home. Have you figured out where to live? Do you want to live close to your parents in the same estate? Or do you have a preferred school you would like to send your future children too?
-
-</p>
-
 ![](src/images/school.png)
 
 <p style="text-align: justify;">
 
-Now, we will examine if the estate affects the price of the resale flat. We will also determine which estate tends to be more costly or cheaper to settle down.
+We can agree that price is an important consideration for purchasing a home. Have you figured out where to live? Do you want to live close to your parents in the same estate? Or do you have a preferred school you would like to send your future children too? Now, we will examine if the estate affects the price of the resale flat. We will also determine which estate tends to be more costly or cheaper to settle down.
 
 </p>
 
 <iframe height="450" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/violin/">
 
 </iframe>
+
+<p style="text-align: justify;">
+
+Now, let's explore the violin plot on the interactive dashboard. For visualisation, we will use Bukit Timah and Punggol. According to 99.co (n.d), [Bukit Timah](https://www.99.co/singapore/neighbourhoods/bukit-timah) is known for it access to many well sought after educational institutes such as Hwa Chong Institutions, National Junior College and Raffles Girls' Primary School, making it one of the most popular estate. [Punggol](https://www.99.co/singapore/neighbourhoods/punggol), on the other hand, is a relatively new estate. It is slowly becoming popular with younger couples due to its modern amenities and promising development plans. The town is being developed with a vision to be eco-friendly, sustainable while providing trendy lifestyle hubs that cater to all age groups.
+
+</p>
+
+<p style="text-align: justify;">
+
+That being said, let's analyse the violin plot. We can observe the wider distribution of resale prices, with a more pronounced upper tail. This would indicate there are a larger variety of flats, but also a substantial market for high-end luxury flats. On the flip side, Punggol has a narrower but dense concentration of price, indicating a more concrete (or less variation) in resale prices. Now, let's interact with the plot, select your dream estates and explore the price variations! Oh and just in case, 'll put the MRT Map here for reference!
+
+</p>
+
+![](src/images/mrt.avif)
+
+<p style="text-align: justify;">
+
+Now, if we were to deduce on which is the best place to settle down based on what we have gathered, the decision really depends on what you value the most. For instance, if you value tranquility and a sea view, Punggol would be great. However, if you would like be in close proximity of prestigious schools, *(all schools are good schools - but let's not get into that for now)* then Bukit Timah might be the best choice for you! The visualisation does not only tell us about the prices, but also a reflection of lifestyle, and the long-term family vision for you and your spouse!
+
+</p>
 
 ### Assessing Affordability of Resale Flats in Singapore
 
@@ -281,6 +301,10 @@ You might be thinking - " Aren't there build-to-order (BTO) flats that are way p
 https://www.todayonline.com/singapore/property-agent-fined-s30000-suspended-12-months-over-unethical-bid-pocket-bigger
 
 https://www.businesstimes.com.sg/property/singapore-property-agents-urged-be-ethical-give-accurate-advice
+
+https://www.99.co/singapore/neighbourhoods/punggol
+
+https://www.99.co/singapore/neighbourhoods/bukit-timah
 
 ```{r}
 
