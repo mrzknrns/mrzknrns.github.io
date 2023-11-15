@@ -20,6 +20,8 @@ While Mr Tharman argued the housing grants could provide support for low-income 
 
 </p>
 
+![](src/images/tharman.webp){width="800"}
+
 <p style="text-align: justify;">
 
 Now, this brings an important question to whether public housing in Singapore truly affordable for the average Singaporean in the future. This analysis will also explore the evolving housing market that may impact the affordability of homes for future generations of Singaporeans.
@@ -144,7 +146,7 @@ The year 1990 with an average price of SGD\$81,525 and 2022 with an average pric
 
 </p>
 
-<iframe height="550" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/bargraph/">
+<iframe height="450" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/bargraph/">
 
 </iframe>
 
@@ -180,9 +182,17 @@ Hint: Pay attention to how 3-room flats almost hitting \$1,000,000! On top of th
 
 <p style="text-align: justify;">
 
-Let's input all the flat type options, what do you see? With 3-Room, 4-Room, 5-Room and Executive selected, we can see a consistent pattern. The data reveals a distinct trend where "regular-sized" flats are slowly approaching the million-dollar mark in resale price in 2022. The upward trajectory is also an indication of the growth in the resale market, reflecting how people are willing to pay for their dream home. This inevitably affect those within a lower income bracket, preventing them to do the same.
+Let's input all the flat type options, what do you see? With 3-Room, 4-Room, 5-Room and Executive selected, we can see a consistent pattern. The data reveals a distinct trend where "regular-sized" flats are slowly approaching the million-dollar mark in resale price in 2022.
 
-<p>
+</p>
+
+<p style="text-align: justify;">
+
+The upward trajectory is also an indication of the growth in the resale market, reflecting how people are willing to pay for their dream home. This inevitably affect those within a lower income bracket, preventing them to do the same.
+
+</p>
+
+![](src/images/darkhome.jpeg)
 
 <p style="text-align: justify;">
 
@@ -200,7 +210,13 @@ Now, that we have clearly seen the high prices Singaporean are willing to pay fo
 
 <p style="text-align: justify;">
 
-To lower the cost burden for flat upgraders, some may consider purchasing a flat with a lower remaining lease. However, is there a correlation between the remaining lease and the cost of a resale flat in 1990 and 2022? As we look and examine into the numbers, it becomes clear that patterns have shifted from 1990 to 2022. Here, we will be comparing the data from these two distinct years. Now let's look at the scatterplot below. Pay attention to the red line, what does it tell you?
+To lower the cost burden for flat upgraders, some may consider purchasing a flat with a lower remaining lease. However, is there a correlation between the remaining lease and the cost of a resale flat in 1990 and 2022?
+
+</p>
+
+<p style="text-align: justify;">
+
+As we look and examine into the numbers, it becomes clear that patterns have shifted from 1990 to 2022. Here, we will be comparing the data from these two distinct years. Now let's look at the scatterplot below. Pay attention to the red line, what does it tell you?
 
 </p>
 
@@ -224,13 +240,19 @@ However, as we move to 2022, while there is still a correlation, we can observe 
 
 ![](src/images/buy.jpeg)
 
-Put yourself in the shoes of the buyer, would you get a house with longer remaining lease, but with everything else an hour away or a shorter remaining lease with everything else a stone's throw away? The answer is not merely a matter of counting the years on a lease. So far, none of the HDB flats have seen their lease expired. So no one knows what really happens after that. Buying your own home is also about weighing the value or time and quality of your daily life. After all, what is a good extended lease if it comes at an expense of your convenience and time? Now, we will look into another important factor: The Estate
+Put yourself in the shoes of the buyer, would you get a house with longer remaining lease, but with everything else an hour away or a shorter remaining lease with everything else a stone's throw away?
+
+</p>
+
+<p style="text-align: justify;">
+
+The answer is not merely a matter of counting the years on a lease. So far, none of the HDB flats have seen their lease expired. So no one knows what really happens after that. Buying your own home is also about weighing the value or time and quality of your daily life. After all, what is a good extended lease if it comes at an expense of your convenience and time? Now, we will look into another important factor: The Estate
 
 </p>
 
 ### The Influence of Estate on Resale Prices
 
-![](src/images/school.png)
+![](src/images/bukitpunggol.png)
 
 <p style="text-align: justify;">
 
@@ -244,13 +266,25 @@ We can agree that price is an important consideration for purchasing a home. Hav
 
 <p style="text-align: justify;">
 
-Now, let's explore the violin plot on the interactive dashboard. For visualisation, we will use Bukit Timah and Punggol. According to 99.co (n.d), [Bukit Timah](https://www.99.co/singapore/neighbourhoods/bukit-timah) is known for it access to many well sought after educational institutes such as Hwa Chong Institutions, National Junior College and Raffles Girls' Primary School, making it one of the most popular estate. [Punggol](https://www.99.co/singapore/neighbourhoods/punggol), on the other hand, is a relatively new estate. It is slowly becoming popular with younger couples due to its modern amenities and promising development plans. The town is being developed with a vision to be eco-friendly, sustainable while providing trendy lifestyle hubs that cater to all age groups.
+Now, let's explore the violin plot on the interactive dashboard. For visualisation, we will use Bukit Timah and Punggol. According to 99.co (n.d), [Bukit Timah](https://www.99.co/singapore/neighbourhoods/bukit-timah) is known for it access to many well sought after educational institutes such as Hwa Chong Institutions, National Junior College and Raffles Girls' Primary School, making it one of the most popular estate.
 
 </p>
 
 <p style="text-align: justify;">
 
-That being said, let's analyse the violin plot. We can observe the wider distribution of resale prices, with a more pronounced upper tail. This would indicate there are a larger variety of flats, but also a substantial market for high-end luxury flats. On the flip side, Punggol has a narrower but dense concentration of price, indicating a more concrete (or less variation) in resale prices. Now, let's interact with the plot, select your dream estates and explore the price variations! Oh and just in case, 'll put the MRT Map here for reference!
+[Punggol](https://www.99.co/singapore/neighbourhoods/punggol), on the other hand, is a relatively new estate. It is slowly becoming popular with younger couples due to its modern amenities and promising development plans. The town is being developed with a vision to be eco-friendly, sustainable while providing trendy lifestyle hubs that cater to all age groups.
+
+</p>
+
+<p style="text-align: justify;">
+
+That being said, let's analyse the violin plot. We can observe the wider distribution of resale prices, with a more pronounced upper tail. This would indicate there are a larger variety of flats, but also a substantial market for high-end luxury flats.
+
+</p>
+
+<p style="text-align: justify;">
+
+On the flip side, Punggol has a narrower but dense concentration of price, indicating a more concrete (or less variation) in resale prices. Now, let's interact with the plot, select your dream estates and explore the price variations! Oh and just in case, I'll put the MRT Map here for reference!
 
 </p>
 
@@ -258,7 +292,13 @@ That being said, let's analyse the violin plot. We can observe the wider distrib
 
 <p style="text-align: justify;">
 
-Now, if we were to deduce on which is the best place to settle down based on what we have gathered, the decision really depends on what you value the most. For instance, if you value tranquility and a sea view, Punggol would be great. However, if you would like be in close proximity of prestigious schools, *(all schools are good schools - but let's not get into that for now)* then Bukit Timah might be the best choice for you! The visualisation does not only tell us about the prices, but also a reflection of lifestyle, and the long-term family vision for you and your spouse!
+Now, if we were to deduce on which is the best place to settle down based on what we have gathered, the decision really depends on what you value the most. For instance, if you value tranquility and a sea view, Punggol would be great.
+
+</p>
+
+<p style="text-align: justify;">
+
+However, if you would like be in close proximity of prestigious schools, *(all schools are good schools - but let's not get into that for now)* then Bukit Timah might be the best choice for you! The visualisation does not only tell us about the prices, but also a reflection of lifestyle, and the long-term family vision for you and your spouse!
 
 </p>
 
