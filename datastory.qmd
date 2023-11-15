@@ -316,7 +316,7 @@ According to YCharts, the 5-year inflation rate tends to be about 2.46%. Provide
 
 </p>
 
-<iframe height="750" width="150%" frameborder="no" src="https://mrzknrns.shinyapps.io/game/">
+<iframe height="700" width="150%" frameborder="no" src="https://mrzknrns.shinyapps.io/game/">
 
 </iframe>
 
