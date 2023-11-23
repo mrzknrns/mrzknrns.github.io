@@ -5,23 +5,20 @@ title: "My Experiences"
 ![](src/images/aboutme.png)
 
 ## Education
+
 **National University of Singapore**\
-*Bachelor of Social Sciences [Hons.], Communications New Media / Sociology, Social Sciences*
-<br> Aug 2022 - Present
+*Bachelor of Social Sciences \[Hons.\], Communications New Media / Sociology, Social Sciences* <br> Aug 2022 - Present
 
 **Temasek Polytechnic**\
-*Diploma with Merit, Business Information Technology*
-<br> Apr 2018 - Apr 2021
+*Diploma with Merit, Business Information Technology* <br> Apr 2018 - Apr 2021
 
 **ITE College Central**\
-*Higher Nitec in Business Event Management*
-<br> Apr 2013 - Apr 2015
-
+*Higher Nitec in Business Event Management* <br> Apr 2013 - Apr 2015
 
 ## Work and Internship Experience - [My LinkedIn Profile](https://www.linkedin.com/in/marzuki-nooranas-b5947b17a/)
 
 **Product Specialist**\
-*Apple South Asia* <br> Aug 2023 - Present · 4 mos
+*Apple South Asia*  <br> Aug 2023 - Present · 4 mos
 
 **Galaxy Specialist · Part-time**\
 *Samsung Electronics Singapore* <br>Feb 2018 - Jan 2023 · 5 yrs
