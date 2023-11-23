@@ -316,25 +316,34 @@ According to YCharts, the 5-year inflation rate tends to be about 2.46%. Provide
 
 </p>
 
-<iframe height="700" width="150%" frameborder="no" src="https://mrzknrns.shinyapps.io/game/">
-
-</iframe>
+<div style="display: flex; justify-content: center; align-items: center; overflow: hidden;">
+  <iframe height="800" width="150%" frameborder="no" src="https://mrzknrns.shinyapps.io/game/"></iframe>
+</div>
 
 ### Why such analysis is important?
 
 <p style="text-align: justify;">
 
-</p>
-
-### Conclusion
-
-<p style="text-align: justify;">
-
-You might be thinking - " Aren't there build-to-order (BTO) flats that are way priced way lower with other grants for purchase?" - and you know what, you are absolutely right! But are you willing to ballot with tens and thousands of couples, wait 5-6 years, and then face the possibility of being turned down?
+Year-on-year, the prices of resale HDB flats have seen a continuous rise, reflecting in a growing demand of housing solutions in Singapore. However, this brings concerns to many Singaporeans, especially younger couples intending to start a family, as they struggle with affordability and availability issues. 
 
 </p>
 
 <p style="text-align: justify;">
+
+According to recent reports, analysts indicated that prices of resale flats are expected to rise moderately for the remainder of 2023 (CNA, 2023). While cooling measures have taken place to control the prices, the growth in the third quarter of 2023 was due to price resistance setting in amid inflationary and affordability concerns. 
+
+</p>
+
+<p style="text-align: justify;">
+
+You might be thinking - " Aren't there build-to-order (BTO) flats that are way priced way lower with other grants for purchase?" - and you know what, you are absolutely right! But are you willing to ballot with tens and thousands of couples, wait 5-6 years, and then face the possibility of being turned down? Certainly, the choice to ballot for a BTO flat, despite its lower cost and readily available grants, requires risk-taking and uncertainties.
+
+</p>
+
+<p style="text-align: justify;">
+
+Therefore, this analysis could provide a thoughtful evaluation of the need for immediate housing against the potential delays and challenges of the BTO process. For now, all we can do is leverage on the available grants and ensure that we spend on what we can afford. 
+
 
 ```{r, eval=TRUE,echo=FALSE}
 
@@ -342,17 +351,7 @@ You might be thinking - " Aren't there build-to-order (BTO) flats that are way p
 
 ### References
 
-https://www.todayonline.com/singapore/property-agent-fined-s30000-suspended-12-months-over-unethical-bid-pocket-bigger
 
-https://www.businesstimes.com.sg/property/singapore-property-agents-urged-be-ethical-give-accurate-advice
-
-https://www.99.co/singapore/neighbourhoods/punggol
-
-https://www.99.co/singapore/neighbourhoods/bukit-timah
-
-https://ycharts.com/indicators/5year_5year_forward_inflation_expectation_rate#:\~:text=Basic%20Info,long%20term%20average%20of%202.25%25.
-
-https://www.dbs.com.sg/personal/articles/nav/my-home/all-about-home-loans#:\~:text=With%20HDB%20loans%2C%20the%20interest,has%20not%20changed%20in%20years.
 
 ```{r}
 
