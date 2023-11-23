@@ -9,11 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me
+        text: My Experience
       - href: datastory.qmd
-        text: Data Story
+        text: My Data Story
       - href: https://github.com/mrzknrns/mrzknrns.git
-        text: Course Content
+        text: Weekly Course Content
 
 format:
   html:

@@ -312,7 +312,7 @@ So far, we have looked at the prices of the resale flats, factors such as remain
 
 <p style="text-align: justify;">
 
-According to YCharts, the 5-year inflation rate tends to be about 2.46%. Provided all else remains constant, the calculator would give a rough indication of how much you will have to pay every month to own your dream home - this is inclusive of DBS's 2.6% interest rates. The prices you see based on 2022's average cost, and adjusted for inflation in 5 years. 
+According to YCharts, the 5-year inflation rate tends to be about 2.46%. Provided all else remains constant, the calculator would give a rough indication of how much you will have to pay every month to own your dream home - this is inclusive of DBS's 2.6% interest rates. The prices you see based on 2022's average cost, and adjusted for inflation in 5 years.
 
 </p>
 
@@ -323,8 +323,6 @@ According to YCharts, the 5-year inflation rate tends to be about 2.46%. Provide
 ### Why such analysis is important?
 
 <p style="text-align: justify;">
-
-
 
 </p>
 
@@ -352,9 +350,9 @@ https://www.99.co/singapore/neighbourhoods/punggol
 
 https://www.99.co/singapore/neighbourhoods/bukit-timah
 
-https://ycharts.com/indicators/5year_5year_forward_inflation_expectation_rate#:~:text=Basic%20Info,long%20term%20average%20of%202.25%25.
+https://ycharts.com/indicators/5year_5year_forward_inflation_expectation_rate#:\~:text=Basic%20Info,long%20term%20average%20of%202.25%25.
 
-https://www.dbs.com.sg/personal/articles/nav/my-home/all-about-home-loans#:~:text=With%20HDB%20loans%2C%20the%20interest,has%20not%20changed%20in%20years.
+https://www.dbs.com.sg/personal/articles/nav/my-home/all-about-home-loans#:\~:text=With%20HDB%20loans%2C%20the%20interest,has%20not%20changed%20in%20years.
 
 ```{r}
 
