@@ -8,24 +8,9 @@ title: "Well Hello There!"
 
 ![](src/images/namelogo.png){fig-align="left" width="724"}
 
-### [Link to Course Content here!](https://github.com/mrzknrns/mrzknrns.git){.uri}
-
-```{r, eval=TRUE,echo=FALSE}
-
-library(grid)
-library(gridExtra)
-library(png)
-
-img1 <- readPNG("src/images/me_icon.png")
-img2 <- readPNG("src/images/68FD47AF-F084-4FCC-85AC-4712EEC1B685.PNG")
-
-grid.arrange(rasterGrob(img1, width=unit(1.1,"npc"), height=unit(0.8,"npc"), gp=gpar(mai=c(0,0,0,0))), 
-             rasterGrob(img2, width=unit(1,"npc"), height=unit(0.7,"npc"), gp=gpar(mai=c(0,0,0,0))), 
-             ncol=2)
-
-```
-
 # **My Hello to You \~**
+
+![](src/images/me2.jpg)
 
 Hello there! My name is Marzuki Nooranas - or *Marz* for short! I am currently in my 2nd year, double majoring in Sociology and, Communications and New Media!
 
@@ -109,6 +94,20 @@ body, html {
 
 ## National University of Singapore
 
+### SC3101 - Social Thought and Theory
+
+In this module, we explored the contributions of the founding fathers of Sociology - Marx, Weber and Durkheim. This Social Media assignment looks into Weber's ideas found in the The Protestant Work Ethic and the Spirit of Capitalism and Bureaucracy.
+
+This idea that we have to be (economically) productive every single minute of our day, how we should be "growing money even in our sleep" is increasingly prevalent today. How everything we do now is to be justified in economic terms and we end up losing meaning, becoming disenchanted in life - Here's what we did!
+
+{{< video https://www.youtube.com/embed/-SYPjaJoi-I?si=ViXbIgq6TR4Lmbh4 >}}
+
+### HS1501 - Artificial Intelligence and Society
+
+In this module, we looked at the benefits and potential downsides of relying on AI. My group focused on leveraging on AI technology to aid in bereavement process. I designed a brochure for a Virtual Memory Garden where users will transported into a virtual space together with thier loved ones - as an avatar!
+
+![](docs/src/images/brochure.png)
+
 ### DTK1234 - Design Thinking
 
 In this module, we were assigned the task of innovating everyday chores. Here is my idea: it is basically an attachment that can be clipped to an existing ironing board, so that people - including the elderly or people with disabilities - can iron clothes without feeling tired or unsafe
@@ -134,8 +133,6 @@ Our main goal was to bring new solutions e-payment solutions while helping young
 "Innovation does not stop" -- Here, we explored how to incorporate programming in our daily lives. This may or may not be inspired by true events but for this project, we created a prototype of a toilet roll dispenser but... I'll let the video do the talking...
 
 {{< video https://youtu.be/2yBwaRCfiuI >}}
-
-# 
 
 ```         
 ```
