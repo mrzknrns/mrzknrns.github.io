@@ -33,7 +33,7 @@ According to Kumar (2022), the affordability of homes in Singapore is a multifac
 </p>
 
 <p style="text-align: justify;">
-For instance, to afford a 3-room flat, which has a median price of \$360,000, both partners would have to at least earn SGD$5,230. While it may seem manageable, this does not account for other living expenses, or other income fluctuation - couple may own a car, or have multiple kids.
+For instance, to afford a 3-room flat, which has a median price of \$360,000, both partners would have to at least earn SGD\$5,230. While it may seem manageable, this does not account for other living expenses, or other income fluctuation - couple may own a car, or have multiple kids.
 </p>
 
 <p style="text-align: justify;">
@@ -113,7 +113,7 @@ Now let's look at the price increment individually for both years, compared with
 </p>
 
 <p style="text-align: justify;">
-The year 1990 with an average price of SGD\$81,525 and 2022 with an average price of SGD$525,092, represented by green and orange respectively. In the graph below, feel free to explore and compare the prices of other flat types between 1990 and 2022!
+The year 1990 with an average price of SGD\$81,525 and 2022 with an average price of SGD\$525,092, represented by green and orange respectively. In the graph below, feel free to explore and compare the prices of other flat types between 1990 and 2022!
 </p>
 
 <iframe height="450" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/bargraph/">
@@ -247,11 +247,11 @@ According to YCharts, the 5-year inflation rate tends to be about 2.46%. Provide
 ### Why such analysis is important?
 
 <p style="text-align: justify;">
-Year-on-year, the prices of resale HDB flats have seen a continuous rise, reflecting in a growing demand of housing solutions in Singapore. However, this brings concerns to many Singaporeans, especially younger couples intending to start a family, as they struggle with affordability and availability issues. 
+Year-on-year, the prices of resale HDB flats have seen a continuous rise, reflecting in a growing demand of housing solutions in Singapore. However, this brings concerns to many Singaporeans, especially younger couples intending to start a family, as they struggle with affordability and availability issues.
 </p>
 
 <p style="text-align: justify;">
-According to recent reports, analysts indicated that prices of resale flats are expected to rise moderately for the remainder of 2023 (CNA, 2023). While cooling measures have taken place to control the prices, the growth in the third quarter of 2023 was due to price resistance setting in amid inflationary and affordability concerns. 
+According to recent reports, analysts indicated that prices of resale flats are expected to rise moderately for the remainder of 2023 (CNA, 2023). While cooling measures have taken place to control the prices, the growth in the third quarter of 2023 was due to price resistance setting in amid inflationary and affordability concerns.
 </p>
 
 <p style="text-align: justify;">
@@ -259,7 +259,7 @@ You might be thinking - " Aren't there build-to-order (BTO) flats that are way p
 </p>
 
 <p style="text-align: justify;">
-Therefore, this analysis could provide a thoughtful evaluation of the need for immediate housing against the potential delays and challenges of the BTO process. For now, all we can do is leverage on the available grants and ensure that we spend on what we can afford. 
+Therefore, this analysis could provide a thoughtful evaluation of the need for immediate housing against the potential delays and challenges of the BTO process. For now, all we can do is leverage on the available grants and ensure that we spend on what we can afford.
 </p>
 
 ```{r, eval=TRUE,echo=FALSE}
@@ -269,9 +269,10 @@ Therefore, this analysis could provide a thoughtful evaluation of the need for i
 ### References
 
 <p style="text-align: justify; font-size: smaller;">
-Bukit Timah Singapore - latest guide and real estate information, places of interest & things to do | 99.co. (n.d.). https://www.99.co/singapore/neighbourhoods/bukit-timah
 
-DBS Singapore. (2023, October 10). What you need to know before getting a home loan | DBS Singapore. DBS. https://www.dbs.com.sg/personal/articles/nav/my-home/all-about-home-loans.
+Bukit Timah Singapore - latest guide and real estate information, places of interest & things to do \| 99.co. (n.d.). https://www.99.co/singapore/neighbourhoods/bukit-timah
+
+DBS Singapore. (2023, October 10). What you need to know before getting a home loan \| DBS Singapore. DBS. https://www.dbs.com.sg/personal/articles/nav/my-home/all-about-home-loans.
 
 CNA. (2023, October 2). HDB resale prices may keep rising moderately for rest of 2023: Analysts. CNA. https://www.channelnewsasia.com/singapore/hdb-resale-prices-q3-increase-moderate-supply-bto-2023-analysts-3813581
 
@@ -279,28 +280,23 @@ Household income - latest data. (n.d.-b). Base. https://www.singstat.gov.sg/find
 
 Koh, J. (2023, November 19). Is the HDB Resale Flat Market Still Overheating? Seedly. https://blog.seedly.sg/hdb-resale-flats-price-high/
 
-Kumar, S. (2022, April 11). Here’s The Salary You Need To Earn To Afford These Homes In Singapore [2022 Edition]. DollarsAndSense.sg. https://dollarsandsense.sg/salary-need-earn-afford-homes-singapore/
+Kumar, S. (2022, April 11). Here's The Salary You Need To Earn To Afford These Homes In Singapore \[2022 Edition\]. DollarsAndSense.sg. https://dollarsandsense.sg/salary-need-earn-afford-homes-singapore/
 
 Liew, I. (2023, October 2). HDB resale prices up 1.2% in Q3, lower than quarter average in 2022; more flats sold. The Straits Times. https://www.straitstimes.com/singapore/housing/hdb-resale-prices-up-12-in-q3-lower-than-quarter-average-in-2022-more-flats-sold
 
-
 Liew, I. (2023b, October 1). About 1,900 BTO flats in 2 Choa Chu Kang projects to be offered in early Oct launch. The Straits Times. https://www.straitstimes.com/singapore/housing/about-1900-bto-flats-in-2-choa-chu-kang-projects-to-be-offered-in-early-oct-launch
-
 
 Lam, F. (2020, October 23). Singapore property agents urged to be ethical, give accurate advice. The Business Times. https://www.businesstimes.com.sg/property/singapore-property-agents-urged-be-ethical-give-accurate-advice
 
+Lim, K. (2019, October 21). Property agent fined S\$30,000, suspended 12 months over unethical bid to pocket bigger commission. TODAY. https://www.todayonline.com/singapore/property-agent-fined-s30000-suspended-12-months-over-unethical-bid-pocket-bigger
 
-Lim, K. (2019, October 21). Property agent fined S$30,000, suspended 12 months over unethical bid to pocket bigger commission. TODAY. https://www.todayonline.com/singapore/property-agent-fined-s30000-suspended-12-months-over-unethical-bid-pocket-bigger
+Tan, J. (2012, March 2). Online uproar over DPM Tharman's '\$1k flat' statement. Yahoo Singapore. https://sg.news.yahoo.com/blogs/singaporescene/online-uproar-over-dpm-tharman-1k-flat-statement-132522414.html
 
-
-Tan, J. (2012, March 2). Online uproar over DPM Tharman’s ‘$1k flat’ statement. Yahoo Singapore. https://sg.news.yahoo.com/blogs/singaporescene/online-uproar-over-dpm-tharman-1k-flat-statement-132522414.html
-
-Punggol Singapore - latest guide and real estate information, places of interest & things to do | 99.co. (n.d.). https://www.99.co/singapore/neighbourhoods/punggol
+Punggol Singapore - latest guide and real estate information, places of interest & things to do \| 99.co. (n.d.). https://www.99.co/singapore/neighbourhoods/punggol
 
 YCharts. (n.d.). 5-Year, 5-Year forward inflation expectation rate. https://ycharts.com/indicators/5year_5year_forward_inflation_expectation_rate
 
 <p>
-
 
 ```{r}
 
