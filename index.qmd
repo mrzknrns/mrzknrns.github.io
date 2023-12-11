@@ -94,7 +94,7 @@ body, html {
 
 ## National University of Singapore
 
-### SC3101 - Social Thought and Theory
+### Social Thought and Theory
 
 In this module, we explored the contributions of the founding fathers of Sociology - Marx, Weber and Durkheim. This Social Media assignment looks into Weber's ideas found in the The Protestant Work Ethic and the Spirit of Capitalism and Bureaucracy.
 
@@ -102,13 +102,13 @@ Here, we discussed (in a very Gen-Z way) that we have to be (economically) produ
 
 {{< video https://www.youtube.com/embed/-SYPjaJoi-I?si=ViXbIgq6TR4Lmbh4 >}}
 
-### HS1501 - Artificial Intelligence and Society
+### Artificial Intelligence and Society
 
 In this module, we looked at the benefits and potential downsides of relying on AI. My group focused on leveraging on AI technology to aid in bereavement process. I designed a brochure for a Virtual Memory Garden where users will transported into a virtual space together with their loved ones - as an avatar!
 
 ![](docs/src/images/brochure.png)
 
-### DTK1234 - Design Thinking
+### Design Thinking
 
 In this module, we were assigned the task of innovating everyday chores. Here is my idea: it is basically an attachment that can be clipped to an existing ironing board, so that people - including the elderly or people with disabilities - can iron clothes without feeling tired or unsafe!
 
