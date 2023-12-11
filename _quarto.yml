@@ -13,7 +13,7 @@ website:
       - href: datastory.qmd
         text: My Data Story
       - href: https://github.com/mrzknrns/mrzknrns.git
-        text: Weekly Course Content
+        text: GitHub
 
 format:
   html:
