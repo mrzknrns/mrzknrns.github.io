@@ -134,7 +134,7 @@ Our main goal was to bring new solutions e-payment solutions while helping young
 
 {{< video https://youtu.be/2yBwaRCfiuI >}}
 
-Not bad aye! Essentially, The lanyard communicates via Bluetooth. this ensures that toilet rolls are filled and readily available for use, maintaining hygiene and convenience in restrooms!
+Not bad aye! Essentially, The lanyard communicates via Bluetooth. this ensures that toilet rolls are filled and readily available for use, maintaining hygiene and convenience in restrooms
 
 ```         
 ```
