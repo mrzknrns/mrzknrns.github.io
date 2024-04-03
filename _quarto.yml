@@ -12,8 +12,7 @@ website:
         text: My Experience
       - href: datastory.qmd
         text: My Data Story
-      - href: https://github.com/mrzknrns/mrzknrns.git
-        text: GitHub
+
 
 format:
   html:
