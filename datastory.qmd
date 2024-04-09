@@ -302,25 +302,6 @@ However, if you would like be in close proximity of prestigious schools, *(all s
 
 </p>
 
-### Assessing Affordability of Resale Flats in Singapore for you!
-
-<p style="text-align: justify;">
-
-So far, we have looked at the prices of the resale flats, factors such as remaining lease and estate, we will now access if the resale flats are truly affordable! Soon, it will be time for you to consider purchasing a new home so let's play a little game!
-
-</p>
-
-<p style="text-align: justify;">
-
-According to YCharts, the 5-year inflation rate tends to be about 2.46%. Provided all else remains constant, the calculator would give a rough indication of how much you will have to pay every month to own your dream home - this is inclusive of DBS's 2.6% interest rates. The prices you see based on 2022's average cost, and adjusted for inflation in 5 years.
-
-</p>
-
-::: {style="display: flex; justify-content: center; align-items: center; overflow: hidden;"}
-<iframe height="930" width="100%" frameborder="no" src="https://mrzknrns.shinyapps.io/game/">
-</iframe>
-:::
-
 ### Conclusion: Why such analysis is important?
 
 <p style="text-align: justify;">
