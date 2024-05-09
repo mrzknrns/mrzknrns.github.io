@@ -9,17 +9,18 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: My Experience
-      - href: datastory.qmd
-        text: My Data Story
+        text: About Me
+      - href: articles.qmd
+        text: Personal Research and Articles
+      - href: interests.qmd
+        text: My Interests
+        
 
 
 format:
   html:
     shiny: true
-    theme:   
-      light: flatly
-      dark: darkly
+    theme: journal
     css: styles.css
     toc: true
 

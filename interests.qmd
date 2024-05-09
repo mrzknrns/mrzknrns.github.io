@@ -1,0 +1,5 @@
+---
+title: "My Interests"
+---
+
+![](docs/src/images/soon.avif){width="730"}
