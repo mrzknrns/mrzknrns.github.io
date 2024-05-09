@@ -401,3 +401,19 @@ The findings emphasize the detrimental effects of punitive measures and highligh
 <p> Jeremy's narrative is a reminder of the complexity of deviance within Singapore's educational system. His experiences underscore the critical need for educational policies that foster understanding and provide genuine support. As Jeremy continues his journey, now a student at a university in Singapore, his story offers hope and a call to action for all involved in shaping young lives. "Change starts when we choose to see the person, not just the problem," Jeremy concludes.</p>
 
 </details>
+
+<details>
+
+<summary> Article 3 <br> <p style="text-align: justify;">
+
+</p>
+
+</summary>
+
+## Under Construction
+
+<p style="text-align: right;"> Monday, 6 Nov 2023 </p>
+
+![](docs/src/images/soon.avif){width="730"}
+
+</details> 
