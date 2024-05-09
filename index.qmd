@@ -10,7 +10,7 @@ title: "Well Hello There!"
 
 ![](src/images/me2.jpg)
 
-## My Hello to You \~
+## My Hello to You \~~
 
 Hello there! My name is Marzuki Nooranas - or *Marz* for short! I am currently in my 3rd year, double majoring in Sociology and Communications & New Media!
 
