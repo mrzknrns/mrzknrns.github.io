@@ -4,7 +4,7 @@ title: "Personal Research and Articles"
 
 ![](docs/src/images/research.jpeg)
 
-Here, I have undertaken multiple personal research projects based on my interests. While these initiatives are just for my own skill enhancement, they reflect my commitment to continuously improving my data analysis capabilities. Through these projects, I delve into various datasets, exploring patterns and extracting actionable insights. <br> <br> This portfolio showcases my journey, illustrating not only my technical skills but also my curiosity and dedication to leveraging data in meaningful ways. Each project here is a step towards mastering the art of transforming raw data into compelling narratives and informed decisions. Happy reading!
+Here, I have undertaken multiple personal research projects based on my interests. While these initiatives are just for my own skill enhancement, they reflect my commitment to continuously improving my data analysis capabilities. Through these projects, I looked into various datasets, exploring patterns and extracting actionable insights. <br> <br> This portfolio showcases my journey, illustrating not only my technical skills but also my curiosity and dedication to leveraging data in meaningful ways. Happy reading!
 
 <details>
 
