@@ -403,12 +403,7 @@ The findings emphasize the detrimental effects of punitive measures and highligh
 </details>
 
 <details>
-
-<summary> Article 3 <br> <p style="text-align: justify;">
-
-</p>
-
-</summary>
+<summary> Article 3 <br> <p style="text-align: justify;"></p></summary>
 
 ## Under Construction
 
@@ -416,4 +411,6 @@ The findings emphasize the detrimental effects of punitive measures and highligh
 
 ![](docs/src/images/soon.avif){width="730"}
 
-</details> 
+
+</details>
+
