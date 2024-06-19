@@ -11,7 +11,7 @@ website:
       - href: articles.qmd
         text: Personal Research and Articles
       - href: interests.qmd
-        text: Solo Travels!
+        text: Solo Travels
       - href: about.qmd
         text: About Me
         
