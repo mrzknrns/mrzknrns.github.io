@@ -8,7 +8,7 @@ Here, I have undertaken multiple personal research projects based on my interest
 
 <details>
 
-<summary> Singapore's Public Housing Affordability <br> <br>  <p style="text-align: justify;"> In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). Read more here... </p> </summary>
+<summary> Singapore's Public Housing Affordability <br> <br>  <p> In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). Read more here... </p> </summary>
 
 ## Is Public Housing Affordable for Singaporeans?
 
@@ -350,7 +350,7 @@ Therefore, this analysis could provide a thoughtful evaluation of the need for i
 
 <details> 
 
-<summary> Educational Deviance in Singapore: A Case Study of Truancy and Societal Reaction <br> <br> <p style="text-align: justify;"> This study examines the impact of labeling on student identity within Singapore's educational system through the case of "Jeremy," a student labeled as a "truant." Utilizing a life history interview, the research illustrates how societal reactions and the Compulsory Education Act of 2000 influence behaviors from primary to secondary deviance. Read more here... </p> </summary>
+<summary> Educational Deviance in Singapore: A Case Study of Truancy and Societal Reaction <br> <br> <p> This study examines the impact of labeling on student identity within Singapore's educational system through the case of "Jeremy," a student labeled as a "truant." Utilizing a life history interview, the research illustrates how societal reactions and the Compulsory Education Act of 2000 influence behaviors from primary to secondary deviance. Read more here... </p> </summary>
 
 ## Who Determines Deviant Behaviour?
 
