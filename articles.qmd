@@ -8,17 +8,15 @@ Here, I have undertaken multiple personal research projects based on my interest
 
 <details>
 
-<summary> Singapore's Public Housing Affordability <br> <p style="text-align: justify;">
-
-In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). Read more here...
-
-</p>
-
-</summary>
+<summary> Singapore's Public Housing Affordability <br> <br>  <p style="text-align: justify;"> In Singapore, housing affordability has been an increasing worry for future Singaporeans. However, in 2012, the then Deputy Prime Minister (DPM) Tharman Shanmugaratnam - stating household income of SGD\$1000 was sufficient to own a home, sparked discussions among netizen online (Tan, 2012). Read more here... </p> </summary>
 
 ## Is Public Housing Affordable for Singaporeans?
 
-<p style="text-align: right;"> Monday, 6 Nov 2023 </p>
+<p style="text-align: right;">
+
+Monday, 6 Nov 2023
+
+</p>
 
 ![](src/images/HDB-flat-after-divorce.jpg){fig-align="left" width="1000"}
 
@@ -350,67 +348,116 @@ Therefore, this analysis could provide a thoughtful evaluation of the need for i
 
 </details>
 
-<details>
+<details> 
 
-<summary> Educational Deviance in Singapore: A Case Study of Truancy and Societal Reaction <br> <p style="text-align: justify;">
-
-This study examines the impact of labeling on student identity within Singapore's educational system through the case of "Jeremy," a student labeled as a "truant." Utilizing a life history interview, the research illustrates how societal reactions and the Compulsory Education Act of 2000 influence behaviors from primary to secondary deviance. Read more here...
-
-</p>
-
-</summary>
+<summary> Educational Deviance in Singapore: A Case Study of Truancy and Societal Reaction <br> <br> <p style="text-align: justify;"> This study examines the impact of labeling on student identity within Singapore's educational system through the case of "Jeremy," a student labeled as a "truant." Utilizing a life history interview, the research illustrates how societal reactions and the Compulsory Education Act of 2000 influence behaviors from primary to secondary deviance. Read more here... </p> </summary>
 
 ## Who Determines Deviant Behaviour?
 
-<p style="text-align: right;"> Friday, 10 May 2024 </p>
+<p style="text-align: right;"> Friday, 10 May 2024</p>
 
 ![](docs/src/images/school.avif)
 
-<p style="text-align: right;"> Photo Source: CNA </p>
+<p style="text-align: right;">
+
+Photo Source: CNA
+
+</p>
 
 The findings emphasize the detrimental effects of punitive measures and highlight the need for supportive reintegration strategies. This case underscores the broader implications for educational policy and practices in managing deviance constructively.
 
 ### Background
 
-<p> In the heart of Singapore's rigorous educational landscape, shaped by the Compulsory Education Act of 2000, every child is promised a solid 10-year foundational education. But beneath these statistics lies the personal struggle of students like Jeremy, whose life challenges disrupt the ideal path set before them.
+<p>
+
+In the heart of Singapore's rigorous educational landscape, shaped by the Compulsory Education Act of 2000, every child is promised a solid 10-year foundational education. But beneath these statistics lies the personal struggle of students like Jeremy, whose life challenges disrupt the ideal path set before them.
 
 ### The Story of Jeremy
 
 ![](docs/src/images/study.png)
 
-<p> "School was my second home until it wasn't," Jeremy recalls, his journey from a model student to a labeled 'truant' marked by circumstances beyond his control. When his father fell ill, the burden of financial support fell on his shoulders, forcing him to balance part-time jobs with his studies. This new responsibility led to tardiness and eventually, absences, which didn't go unnoticed. "I wasn't just late; I was struggling to keep my life together," Jeremy shares.</p>
+<p>"School was my second home until it wasn't," Jeremy recalls, his journey from a model student to a labeled 'truant' marked by circumstances beyond his control. When his father fell ill, the burden of financial support fell on his shoulders, forcing him to balance part-time jobs with his studies. This new responsibility led to tardiness and eventually, absences, which didn't go unnoticed. "I wasn't just late; I was struggling to keep my life together," Jeremy shares.</p>
 
-### The Spiral of Deviance
+### Introduction
 
-<p> Jeremy's initial minor infractions soon snowballed into more significant absences. "Each late coming wasn't just about not making it on time; it was about not making it at all," Jeremy explains. The school's response was punitive - detentions that isolated him from his peers and classes, embedding him deeper into the role of a truant. "You're marked, and that marking changes how everyone sees you," he reflects.</p>
+<p>The Compulsory Education Act of 2000 (Singapore Statues Online, 2024) is a legal framework that ensures every child born after 1996 receives fundamental 10-year educational experiences, helping to develop a strong foundation in literacy, communication skills, and other moral values (MOE, 2023).</p>
 
-### Labeling and Its Impacts
+<p>In 2022, the Ministry of Education's (MOE) Education Statistic Digest reported that 235,116 children were enrolled on a Primary School and more than 98% of the Primary Six cohort were eligible for Secondary School education. Therefore, missing classes or being truant not only goes against societal rules but is also considered "deviant", leading to social and legal repercussions.</p>
 
-<p> The transformation in how Jeremy was perceived and treated is a classic example of labeling theory in action. "Once labeled, you're playing a part scripted for you by those labels," Jeremy says. This script was reinforced continually by the detentions and the reactions of his teachers and peers. "When you hear 'Wah, bro finally showed up?' enough times, you start to wonder if trying is worth it," he admits.
+![](docs/src/images/stat.png){fig-align="center" width="545"}
 
-### Breaking Free
+<p>
 
-<p> The turning point came with the passing of his father. This profound loss forced Jeremy to reassess his life's direction. "It made me realize the shortness of life and the long-term consequences of my choices," he states. Motivated by his father's memory and the need to support his family, Jeremy began to shed his truant identity. "I was more than my circumstances," he asserts.</p>
+</p>
 
-### Insights from Educators
+<p>Employing a life history interview approach, this essay explores how labelling influences "Jeremy" -- a pseudonym -- finds himself consistently confronted with the repercussions of being labelled as a "truant". Therefore, using truancy and the Education Act as a backdrop, the article will discuss the impacts of societal responses on shaping Jeremy's identity and also explore his initial behaviours, the impact of the punishments and the motivations that influenced his persistence in truancy during his time in a local secondary school.</p>
 
-<p> Educators like Mrs. Tan, Jeremy's guidance counselor, emphasize the importance of understanding each student's context. "We need to look beyond the behavior to the person behind it. Only then can we truly help," she notes. Mrs. Tan advocates for a system that prioritizes supportive measures over punitive ones, suggesting, "Reintegration, not isolation, is key to turning lives around." </p>
+### Methodology
+
+<p>An hour-long interview was conducted face-to-face in his university hall residence. Having known Jeremy - the interviewee - for five years, his willingness to participate facilitated an open discussion. This allowed him to be honest in sharing his responses, thereby creating a more comprehensive interview. The interview hopes to address his experiences and societal influences that perpetuate his role as a "truant" within Singapore's educational system.</p>
+
+### Initial Challenges
+
+<p>Jeremy's journey into truancy began subtly, with his behaviours initially deemed to be minor acts. During his time in secondary school, Jeremy had decent grades, great co-curriculum activities (CCA) records, and well-liked by everyone.</p>
+
+<p>However, his life took an unexpected turn when his father fell ill. His mother had to reduce her working hours to care for his father. Being middle class, Jeremy started to pick up part-time jobs to financially support the family. The additional burden started to affect his well-being, physically and mentally resulting in him being late for school -- a deviant behaviour according to Asiyai (2019).</p>
+
+### Escalation to Secondary Deviance
+
+<p>His exhaustion began to manifest, and his tardiness became frequent and got the attention of his friends and teachers. When inquired about his late coming, his teacher said he "should be responsible for his actions", which stood out. He retaliated and had to serve detention hours during and after class.</p>
+
+<p>The detentions given by the discipline master were originally intended for corrective measures. According to Salovitta (2017), school detentions are widely used as a method of punishment. However, such practices can alienate, seclude and deprive the student of classes and interactions with their friends. Soon, detentions became a routine, inadvertently becoming a part of his secondary school life as he started to miss a full day of classes.</p>
+
+### The Label Begins
+
+<p>During the interview, Jeremy mentioned a term used by this school to describe his offence. "Truancy & Repeated Latecomer Offender". Furthermore, the detentions exposed him to other students who were deviant actors, reinforcing his behaviours and validating his identity within this marginalised group.</p>
+
+<p>While undergoing his punishment, he began to internalise the label "truant", given by his discipline master, which influenced his self-perception and behaviours. This would indicate that the measures of detention fail to address the underlying problem, but further perpetuate deviant identities, leading to a "self-fulfilling prophecy" (Merton, 1968)</p>
+
+### Discussion Using Theoretical Frameworks
+
+#### Lemert's and Becker's Labelling Tradition
+
+<p>Applying Lemert's (1951; 1967) Labelling Tradition suggests that societal reaction to minor acts of deviance can drive individuals to exhibit serious behaviours that are consistent with the associated label. Skaggs (2024) asserts, citing Becker (1963), that the sequence from "primary" deviance, where the initial unnoticed and minor acts are labelled as deviant by society. As a result, the internalisation of the status by the individual would eventually accept this label as part of their identity, compelling them to adopt these behaviours more consistently, thus transitioning into "secondary" deviance.</p>
+
+![](docs/src/images/remark.png){fig-align="center" width="383" height="52"}
+
+<p>Jeremy's initial label of a "latecomer" soon solidified into a more damaging label of "truant". Jeremy's inability to conform to the school norms led to a negative reaction from both his peers and teacher. His classmates would often remark, "Wah, bro finally show up?" or "Eh not late today?", indicating a deeper societal rejection, pushing him further into the role his classmates gave him, despite making efforts to avoid tardiness.</p>
+
+<p>As Jeremy's labels transition, it reinforces his deviant identity, making it even more difficult for him to break the cycle and return to a conformist path -- an observation of Durkheim on the functions of deviance in society (Thorlindsson, & Bernburg, 2004). Society used its power to label Jeremy, which acted as a barriers, cutting him off from resources that could help him to reintegrate him back to the legitimate school environment, the classroom, instead of the illegitimate -- the detention room.</p>
+
+#### Merton's Strain Theory
+
+<p>Merton's Strain Theory (1957; 1968) provides a framework to further understand Jeremy's "truancy" as a coping mechanism and adaptation to the socially accepted goal. According to a study done by Curci and Greco (2016), those who exhibit negative emotions such as stress or anger, are more likely to participate in deviant behaviours.</p>
+
+<p>The emotional distress from his situation triggered his adaptation responses. It is important to also note that before committing the deviant act, Jeremy acknowledges that he needs to succeed academically to ensure he meets the societal expectations for material success. However, his father's unexpected illness created an economic strain that conflicted with his academic goals at that time. According to Merton's theory, his workaround and "truancy" can be classified as an innovative adaptation where his unconventional means to earn extra money conflicted with institutional norms</p>
+
+#### Cohen's Subculture Theory
+
+<p>Cohen's Subculture Theory (1955) plays a part in Jeremy's transition from primary to secondary deviance. Cohen (1955) states that subculture -- which refers to a group rejected by society, having shared norms and values -- arises in response to similar strains experienced by individuals.</p>
+
+<p>Phrases like, "come to school late also get detention, might as well don't come" , "no point also la, the teachers don't care about us" and "never mind, join us can already" reflects a shared norm within this subculture of frequent detainees that normalises deviant behaviour. While detention is used to maintain social order in school, these exclusionary practices can eventually lead to undesirable labels, and alienation, and could encourage them to engage in secondary deviant roles (Gerlinger et al., 2021).</p>
+
+#### Sutherland's Social Learning Theory
+
+<p>At this point, Jeremy began to skip a full day of classes to work instead. Eventually, detention sessions became a classroom for learning truancy. For instance, his constant interaction with other repeat offenders provided a social context where he could observe, learn and also internalise the behaviours.</p>
+
+<p>These conversations of deviant behaviours became normalised, which provided Jeremy with specific techniques for skipping full days of classes such as falsifying medical certificates and forging letters of absence from parents.</p>
+
+<p>These experiences are reminiscent of Sutherland's Social Learning Theory where he posits that deviant acts are learned and intensified due to the exposure from his deviant peers (Matsueda, 2010). According to Wein (2022), teenagers are very responsive to peer influence and are activated by things they view as beneficial.</p>
+
+<p>He started smoking to "relieve stress", which leading him to smuggle packs of cigarettes for his new-found deviant friends. Jeremy's deviant behaviours became a learned lifestyle, only picking it up after serving detention hours.</p>
+
+### Desistance from Deviance 
+
+<p> Jeremy’s desistance from deviance can be explored through Hirschi’s (1969) Social Bond Theory. Kotlaja and Meier (2018), cited Hirschi (1969), mentioned that bonds such as family or community can deter deviant behaviours. In the interview, Jeremy mentioned that his father’s health deteriorated quickly and unfortunately passed away four months later.</p>
+
+<p> These social breaks occurred once he realigned his behaviours to ensure that he could provide support for his family through proper education, and as a result, started attending school regularly and is now pursuing an undergraduate degree in a local university in Singapore. His personal loss and familial responsibility align closely with Hirschi’s theory which emphasises the importance of social ties and deterring deviance. </p>
 
 ### Conclusion
 
-<p> Jeremy's narrative is a reminder of the complexity of deviance within Singapore's educational system. His experiences underscore the critical need for educational policies that foster understanding and provide genuine support. As Jeremy continues his journey, now a student at a university in Singapore, his story offers hope and a call to action for all involved in shaping young lives. "Change starts when we choose to see the person, not just the problem," Jeremy concludes.</p>
+Well, the 10-year Compulsory Education Act has set an expectation for educational attainment, and would be considered deviant if one fails to comply. However, Jeremy’s journey through primary and secondary deviance illuminates the complexities of societal labelling and pressures. His experiences highlight the need to support reintegration over unproportionate measures, to foster a healthier school environment for all students. 
 
 </details>
 
-<details>
-<summary> Article 3 <br> <p style="text-align: justify;"></p></summary>
-
-## Under Construction
-
-<p style="text-align: right;"> Monday, 6 Nov 2023 </p>
-
-![](docs/src/images/soon.avif){width="730"}
-
-
-</details>
 
