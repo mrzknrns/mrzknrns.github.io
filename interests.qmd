@@ -3,3 +3,5 @@ title: "My Interests"
 ---
 
 ![](docs/src/images/soon.avif){width="730"}
+
+As mentioned earlier, I do have my own interests as well! 

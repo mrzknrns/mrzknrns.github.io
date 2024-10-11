@@ -10,7 +10,7 @@ title: "Well Hello There!"
 
 ![](src/images/me2.jpg)
 
-## My Hello to You \~~
+## My Hello to You \~\~
 
 Hello there! My name is Marzuki Nooranas - or *Marz* for short! I am currently in my 3rd year, double majoring in Sociology and Communications & New Media!
 
@@ -53,46 +53,33 @@ body, html {
 ```
 ::: tiktok-container
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7181240142063996161" data-video-id="7181240142063996161" style="max-width: 605px;min-width: 325px;">
-
-<section>
-
-<a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed">@mentaikofries_</a>
-
-<p>overland travel for the vibesss</p>
-
-<a target="_blank" title="♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗" href="https://www.tiktok.com/music/original-sound-7178872451673459457?refer=embed">♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗</a>
-
-</section>
-
+    <section>
+        <a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed">@mentaikofries_</a>
+        <p>overland travel for the vibesss</p>
+        <a target="_blank" title="♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗" href="https://www.tiktok.com/music/original-sound-7178872451673459457?refer=embed">♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗</a>
+    </section>
 </blockquote>
 
-```{=html}
-<script async src="https://www.tiktok.com/embed.js"></script>
-```
-> </blockquote>
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7238779076528442625" data-video-id="7238779076528442625" style="max-width: 605px;min-width: 325px;">
-
-<section>
-
-<a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed">@mentaikofries_</a>
-
-<p>nha trang is my favvvvvv</p>
-
-<a target="_blank" title="♬ moth to a flame x after hours - trlixqy" href="https://www.tiktok.com/music/moth-to-a-flame-x-after-hours-7174186663990561579?refer=embed">♬ moth to a flame x after hours - trlixqy</a>
-
-</section>
-
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7383243879715196168" data-video-id="7383243879715196168" style="max-width: 605px;min-width: 325px;">
+    <section>
+        <a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed">@mentaikofries_</a>
+        <p>errr i drank about 9 cups of pearl milk tea in 4 days 3 nights 🇹🇼🥴🧋🇹🇼</p>
+        <a target="_blank" title="♬ fish in the pool・花屋敷 - ヘクとパスカル" href="https://www.tiktok.com/music/fish-in-the-pool-花屋敷-6910585281334740994?refer=embed">♬ fish in the pool・花屋敷 - ヘクとパスカル</a>
+    </section>
 </blockquote>
 
-```{=html}
 <script async src="https://www.tiktok.com/embed.js"></script>
-```
 :::
 
 # **My Past Work**
 
 ## National University of Singapore
+
+### Digital Storytelling
+
+During a casual cycling session, Marzuki (me) finds himself in an unusual situation -- discovering a photo album and film camera left behind. He takes the opportunity to slow down and capture moments from the day in the lives of everyday people while enjoying his ride.
+
+{{< video https://www.youtube.com/embed/Nz8UhdKpz-Y?si=FymUgJAb4lcMtJB9 >}}
 
 ### Social Thought and Theory
 
@@ -106,25 +93,15 @@ Here, we discussed (in a very Gen-Z way) that we have to be (economically) produ
 
 In this module, we looked at the benefits and potential downsides of relying on AI. My group focused on leveraging on AI technology to aid in bereavement process. I designed a brochure for a Virtual Memory Garden where users will transported into a virtual space together with their loved ones - as an avatar!
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+::: {style="position: relative; width: 100%; height: 0; padding-top: 56.2225%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 
-<a href="https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?utm_content=DAF0lbgxhPk&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener"> Virtual Memory Garden </a>
+</iframe>
+:::
 
-### Design Thinking
+<a href="https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?utm_content=DAF0lbgxhPk&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener"> </a>
 
-In this module, we were assigned the task of innovating everyday chores. Here is my idea: it is basically an attachment that can be clipped to an existing ironing board, so that people - including the elderly or people with disabilities - can iron clothes without feeling tired or unsafe!
-
-![](images/prototyping.png){fig-align="center"}
-
-The actual prototyping journey was not very smooth, but hey, here is the end product! Looks good aye? To me at least...
-
-![](images/prototyping_2-01.png)
-
-## Temasek Polytechnic
+### Temasek Polytechnic
 
 ### Savvify - An Automated Savings Platform
 
