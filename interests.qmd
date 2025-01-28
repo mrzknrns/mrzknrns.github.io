@@ -11,39 +11,29 @@ title: "My Past Work"
 
 ## Interaction Design
 
-### (1) SlideCraft - AI Powered Design Tool
+### (1) SlideCraft - AI Powered Design Tool - [Try](https://www.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/(Slidecraft)-Hi-Fi-Prototype-Flow?page-id=0%3A1&node-id=1-31&starting-point-node-id=1%3A31&t=Mh9u0WSzDA1yIXVO-1)
 
 SlideCraft is an AI-powered slide design tool created to simplify the presentation-making process for students and educators. I developed detailed lo-fi and hi-fi prototypes, focusing on features like design consistency, personalized recommendations, and efficiency.
 
 This project emphasized enabling users to focus on content creation while saving time with AI-driven slide suggestions.
 
-<details>
-  <summary style="cursor: pointer; font-weight: bold; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc;">
-    View SlideCraft Prototype
-  </summary>
-<div style="position: relative; width: 100%; height: 450px;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0, 0, 0, 0.1);" src="https://embed.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/Slidecraft-Hi-Fi-Prototype-Flow?page-id=0%3A1&amp;node-id=1-31&amp;starting-point-node-id=1%3A31&amp;embed-host=share" allowfullscreen>
-  </iframe>
-</div>
-</details>
+[![](src/images/Slidecraft.png)](https://www.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/(Slidecraft)-Hi-Fi-Prototype-Flow?page-id=0%3A1&node-id=1-31&starting-point-node-id=1%3A31&t=Mh9u0WSzDA1yIXVO-1)
 
-### (2) GPTDashboard - Desktop View
+### (2) GPTDashboard 
 
 The ChatGPT Dashboard was designed to help social media content creators streamline their workflow by integrating AI into content generation and tracking. I worked on both lo-fi and hi-fi prototypes, ensuring a smooth user experience across desktop and mobile views.
 
 This project focused on addressing key pain points like burnout and content optimization while providing real-time feedback metrics to help creators stay on top of trends​
 
-<details>
-  <summary style="cursor: pointer; font-weight: bold; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc;">
-    View GPTDashboard Prototype
-  </summary>
-<div style="position: relative; width: 100%; height: 450px;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0, 0, 0, 0.1);" src="https://embed.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/(ChatGPT-Dashboard)-Hi-Fi-Desktop-View-Prototype-Link%3A?page-id=0%3A1&amp;node-id=1-228&amp;starting-point-node-id=1%3A228&amp;embed-host=share" allowfullscreen>
-  </iframe>
-</div>
-</details>
+#### Desktop View - [Try](https://www.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/(ChatGPT-Dashboard)-Hi-Fi-Desktop-View-Prototype-Link%3A?page-id=0%3A1&node-id=1-228&starting-point-node-id=1%3A228&t=p4qJvBRCwOvr5VdO-1)
 
-### (3) SaveWatt
+[![](src/images/GPTDashboard.png)](https://www.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/(ChatGPT-Dashboard)-Hi-Fi-Desktop-View-Prototype-Link%3A?page-id=0%3A1&node-id=1-228&starting-point-node-id=1%3A228&t=p4qJvBRCwOvr5VdO-1)
+
+#### Mobile View - [Try](https://www.figma.com/proto/XAkmFk4Ob0sKCjq9WicOTn/(ChatGPT-Dashboard)-Hi-Fi-Mobile-View-Prototype-Link%3A?page-id=0%3A1&node-id=1-155&starting-point-node-id=1%3A155&scaling=scale-down&content-scaling=fixed&t=usOMIBXFWyw4m05r-1)
+
+[![](src/images/Mobile Dashboard.png)](https://www.figma.com/proto/XAkmFk4Ob0sKCjq9WicOTn/(ChatGPT-Dashboard)-Hi-Fi-Mobile-View-Prototype-Link%3A?page-id=0%3A1&node-id=1-155&starting-point-node-id=1%3A155&scaling=scale-down&content-scaling=fixed&t=usOMIBXFWyw4m05r-1)
+
+### (3) SaveWatt - [Try](https://www.figma.com/proto/33D1uDg1g786wbtU9np2gq/4_G3_Prototype?page-id=3%3A646&node-id=89-2546&starting-point-node-id=89%3A2546&t=NrbMP0AecEP9SCMu-1)
 
 SaveWatt is a digital platform aimed at helping homeowners make smarter, energy-efficient appliance choices amidst rising electricity tariffs. I contributed to the design of a user-friendly interface that consolidates appliance comparison tools, offering personalized recommendations and energy-saving insights.
 
@@ -53,15 +43,7 @@ Full PortFolio: <https://savewatt.framer.website>
 
 ![](src/images/SaveWatt.png)
 
-<details>
-  <summary style="cursor: pointer; font-weight: bold; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc;">
-    View SaveWatt Prototype
-  </summary>
-<div style="position: relative; width: 100%; height: 450px;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0, 0, 0, 0.1);" src="https://embed.figma.com/proto/33D1uDg1g786wbtU9np2gq/4_G3_Prototype?page-id=3%3A646&amp;node-id=89-2546&amp;starting-point-node-id=89%3A2546&amp;embed-host=share" allowfullscreen>
-  </iframe>
-</div>
-</details>
+[![](src/images/SaveWatt_Prototype.png)](https://www.figma.com/proto/33D1uDg1g786wbtU9np2gq/4_G3_Prototype?page-id=3%3A646&node-id=89-2546&starting-point-node-id=89%3A2546&t=NrbMP0AecEP9SCMu-1)
 
 ## TeachSG
 

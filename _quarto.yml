@@ -11,9 +11,9 @@ website:
       - href: articles.qmd
         text: Personal Research and Articles
       - href: interests.qmd
-        text: Past Work - UI/UX Research & Prototype
+        text: UI/UX Research & Prototypes
       - href: videos.qmd
-        text: Past Work - Video Editing & Production
+        text: Video Editing & Production
       - href: about.qmd
         text: About Me
         

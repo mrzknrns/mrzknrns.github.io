@@ -24,35 +24,39 @@ Such experiences provide me with firsthand insights into how different societies
 
 ```{=html}
 <style>
-body, html {
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden; 
-}
-
-.tiktok-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  width: 105%; 
-}
-
-.tiktok-embed {
-  box-sizing: border-box;
-  max-width: 100%;
-  flex: 1 1 300px;
-  margin: 0 auto; 
-}
-
-@media screen and (max-width: 600px) {
-  .tiktok-embed {
-    min-width: auto;
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
   }
-}
+
+  .tiktok-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Distribute space between items */
+    gap: 20px; /* Add spacing between items */
+    width: 100%;
+    max-width: 1200px; /* Limit maximum width for larger screens */
+    margin: 0 auto; /* Center the container */
+  }
+
+  .tiktok-embed {
+    box-sizing: border-box;
+    flex: 1 1 calc(50% - 10px); /* Two items per row with spacing */
+    max-width: calc(50% - 10px); /* Two items per row with spacing */
+    min-width: 300px; /* Minimum width for each embed */
+  }
+
+  @media screen and (max-width: 600px) {
+    .tiktok-embed {
+      flex: 1 1 100%; /* Full width on mobile */
+      max-width: 100%; /* Full width on mobile */
+    }
+  }
 </style>
 ```
 ::: tiktok-container
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7181240142063996161" data-video-id="7181240142063996161" style="max-width: 605px;min-width: 325px;">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7181240142063996161" data-video-id="7181240142063996161">
 
 <section>
 
@@ -66,7 +70,7 @@ body, html {
 
 </blockquote>
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7383243879715196168" data-video-id="7383243879715196168" style="max-width: 605px;min-width: 325px;">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7383243879715196168" data-video-id="7383243879715196168">
 
 <section>
 
@@ -79,12 +83,11 @@ body, html {
 </section>
 
 </blockquote>
+:::
 
 ```{=html}
 <script async src="https://www.tiktok.com/embed.js"></script>
 ```
-:::
-
 ## Contact Details
 
 For any opportunities:

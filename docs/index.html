@@ -90,11 +90,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./interests.html" rel="" target="">
- <span class="menu-text">Past Work - UI/UX Research &amp; Prototype</span></a>
+ <span class="menu-text">UI/UX Research &amp; Prototypes</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./videos.html" rel="" target="">
- <span class="menu-text">Past Work - Video Editing &amp; Production</span></a>
+ <span class="menu-text">Video Editing &amp; Production</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html" rel="" target="">
@@ -158,34 +158,38 @@ ul.task-list li input[type="checkbox"] {
 <p>To demonstrate this, I embark of frequent backpacking trips across Southeast Asia, and actively engage myself in the cultures and learn about their customs.</p>
 <p>Such experiences provide me with firsthand insights into how different societies interact, and not only broadening my horizons, but also fostering empathy across different communities. Here’s a little snippet -</p>
 <style>
-body, html {
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden; 
-}
-
-.tiktok-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  width: 105%; 
-}
-
-.tiktok-embed {
-  box-sizing: border-box;
-  max-width: 100%;
-  flex: 1 1 300px;
-  margin: 0 auto; 
-}
-
-@media screen and (max-width: 600px) {
-  .tiktok-embed {
-    min-width: auto;
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
   }
-}
+
+  .tiktok-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Distribute space between items */
+    gap: 20px; /* Add spacing between items */
+    width: 100%;
+    max-width: 1200px; /* Limit maximum width for larger screens */
+    margin: 0 auto; /* Center the container */
+  }
+
+  .tiktok-embed {
+    box-sizing: border-box;
+    flex: 1 1 calc(50% - 10px); /* Two items per row with spacing */
+    max-width: calc(50% - 10px); /* Two items per row with spacing */
+    min-width: 300px; /* Minimum width for each embed */
+  }
+
+  @media screen and (max-width: 600px) {
+    .tiktok-embed {
+      flex: 1 1 100%; /* Full width on mobile */
+      max-width: 100%; /* Full width on mobile */
+    }
+  }
 </style>
 <div class="tiktok-container">
-<blockquote class="tiktok-embed blockquote" cite="https://www.tiktok.com/@mentaikofries_/video/7181240142063996161" data-video-id="7181240142063996161" style="max-width: 605px;min-width: 325px;">
+<blockquote class="tiktok-embed blockquote" cite="https://www.tiktok.com/@mentaikofries_/video/7181240142063996161" data-video-id="7181240142063996161">
 <section>
 <p><a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed"><span class="citation" data-cites="mentaikofries_">@mentaikofries_</span></a></p>
 <p>
@@ -194,7 +198,7 @@ overland travel for the vibesss
 <p><a target="_blank" title="♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗" href="https://www.tiktok.com/music/original-sound-7178872451673459457?refer=embed">♬ original sound - 𝚁𝚊𝚐𝚑𝚊𝚍💗</a></p>
 </section>
 </blockquote>
-<blockquote class="tiktok-embed blockquote" cite="https://www.tiktok.com/@mentaikofries_/video/7383243879715196168" data-video-id="7383243879715196168" style="max-width: 605px;min-width: 325px;">
+<blockquote class="tiktok-embed blockquote" cite="https://www.tiktok.com/@mentaikofries_/video/7383243879715196168" data-video-id="7383243879715196168">
 <section>
 <p><a target="_blank" title="@mentaikofries_" href="https://www.tiktok.com/@mentaikofries_?refer=embed"><span class="citation" data-cites="mentaikofries_">@mentaikofries_</span></a></p>
 <p>
@@ -203,8 +207,8 @@ errr i drank about 9 cups of pearl milk tea in 4 days 3 nights 🇹🇼🥴🧋�
 <p><a target="_blank" title="♬ fish in the pool・花屋敷 - ヘクとパスカル" href="https://www.tiktok.com/music/fish-in-the-pool-花屋敷-6910585281334740994?refer=embed">♬ fish in the pool・花屋敷 - ヘクとパスカル</a></p>
 </section>
 </blockquote>
-<script async="" src="https://www.tiktok.com/embed.js"></script>
 </div>
+<script async="" src="https://www.tiktok.com/embed.js"></script>
 </section>
 <section id="contact-details" class="level2">
 <h2 class="anchored" data-anchor-id="contact-details">Contact Details</h2>
