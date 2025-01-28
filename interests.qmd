@@ -39,7 +39,7 @@ SaveWatt is a digital platform aimed at helping homeowners make smarter, energy-
 
 This project tackled the challenges of decision fatigue and financial strain by providing actionable guidance in a visually engaging way.
 
-Full PortFolio: <https://savewatt.framer.website>
+Full PortFolio: <https://savewatt.framer.website> (Use Desktop View only)
 
 ![](src/images/SaveWatt.png)
 
