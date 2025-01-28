@@ -21,17 +21,13 @@ This project emphasized enabling users to focus on content creation while saving
 
 </iframe>
 
-### (2) GPTDashboard - Desktop and Mobile View
+### (2) GPTDashboard - Desktop View
 
 The ChatGPT Dashboard was designed to help social media content creators streamline their workflow by integrating AI into content generation and tracking. I worked on both lo-fi and hi-fi prototypes, ensuring a smooth user experience across desktop and mobile views.
 
 This project focused on addressing key pain points like burnout and content optimization while providing real-time feedback metrics to help creators stay on top of trends​
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/(ChatGPT-Dashboard)-Hi-Fi-Desktop-View-Prototype-Link%3A?page-id=0%3A1&amp;node-id=1-228&amp;starting-point-node-id=1%3A228&amp;embed-host=share" allowfullscreen>
-
-</iframe>
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/XAkmFk4Ob0sKCjq9WicOTn/(ChatGPT-Dashboard)-Hi-Fi-Mobile-View-Prototype-Link%3A?page-id=0%3A1&amp;node-id=1-155&amp;starting-point-node-id=1%3A155&amp;embed-host=share" allowfullscreen>
 
 </iframe>
 
