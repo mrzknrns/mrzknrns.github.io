@@ -320,5 +320,96 @@
     "title": "My Past Work",
     "section": "TeachSG",
     "text": "TeachSG\nFor my TeachSG attachment, I created this motivational card specifically for primary school students who were struggling with math. The card was designed to inspire confidence and encourage them as they prepared for their PSLE exams.\nUsing bright colors, cheerful designs, and a personalized touch with mentor memojis, I aimed to make the card relatable and uplifting, helping the students feel supported and motivated to achieve their best."
+  },
+  {
+    "objectID": "video.html",
+    "href": "video.html",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "",
+    "text": "--- title: “My Past Work” ---\n```{r, eval=TRUE,echo=FALSE} ```\n&lt;br&gt; I’ve dabbled in UX/UI design and video editing, mostly picking up these skills on my own because I’m really into it. I love creating cool user experiences and videos that pop, and I’m excited to keep leveling up and bringing more creativity to my work!"
+  },
+  {
+    "objectID": "video.html#interaction-design",
+    "href": "video.html#interaction-design",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "Interaction Design",
+    "text": "Interaction Design\n\n(1) SlideCraft - AI Powered Design Tool\nSlideCraft is an AI-powered slide design tool created to simplify the presentation-making process for students and educators. I developed detailed lo-fi and hi-fi prototypes, focusing on features like design consistency, personalized recommendations, and efficiency.\nThis project emphasized enabling users to focus on content creation while saving time with AI-driven slide suggestions.\n&lt;iframe style=“border: 1px solid rgba(0, 0, 0, 0.1);” width=“800” height=“450” src=“https://embed.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/(Slidecraft)-Hi-Fi-Prototype-Flow?page-id=0%3A1&node-id=1-31&starting-point-node-id=1%3A31&embed-host=share” allowfullscreen&gt;\n&lt;/iframe&gt;\n\n\n(2) GPTDashboard - Desktop View\nThe ChatGPT Dashboard was designed to help social media content creators streamline their workflow by integrating AI into content generation and tracking. I worked on both lo-fi and hi-fi prototypes, ensuring a smooth user experience across desktop and mobile views.\nThis project focused on addressing key pain points like burnout and content optimization while providing real-time feedback metrics to help creators stay on top of trends​\n&lt;iframe style=“border: 1px solid rgba(0, 0, 0, 0.1);” width=“800” height=“450” src=“https://embed.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/(ChatGPT-Dashboard)-Hi-Fi-Desktop-View-Prototype-Link%3A?page-id=0%3A1&node-id=1-228&starting-point-node-id=1%3A228&embed-host=share” allowfullscreen&gt;\n&lt;/iframe&gt;\n\n\n(3) SaveWatt\nSaveWatt is a digital platform aimed at helping homeowners make smarter, energy-efficient appliance choices amidst rising electricity tariffs. I contributed to the design of a user-friendly interface that consolidates appliance comparison tools, offering personalized recommendations and energy-saving insights.\nThis project tackled the challenges of decision fatigue and financial strain by providing actionable guidance in a visually engaging way.\nFull PortFolio: &lt;https://savewatt.framer.website&gt;\n![](src/images/SaveWatt.png)\n&lt;iframe style=“border: 1px solid rgba(0, 0, 0, 0.1);” width=“800” height=“450” src=“https://embed.figma.com/proto/33D1uDg1g786wbtU9np2gq/4_G3_Prototype?page-id=3%3A646&node-id=89-2546&starting-point-node-id=89%3A2546&embed-host=share” allowfullscreen&gt;\n&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "video.html#teachsg",
+    "href": "video.html#teachsg",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "TeachSG",
+    "text": "TeachSG\nFor my TeachSG attachment, I created this motivational card specifically for primary school students who were struggling with math. The card was designed to inspire confidence and encourage them as they prepared for their PSLE exams.\nUsing bright colors, cheerful designs, and a personalized touch with mentor memojis, I aimed to make the card relatable and uplifting, helping the students feel supported and motivated to achieve their best.\n\n&lt;iframe loading=“lazy” style=“position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;” src=“https://www.canva.com/design/DAGRwrKGhxo/DFyJSp72gAFRLvh1wU3bwA/view?embed” allowfullscreen=“allowfullscreen” allow=“fullscreen”&gt;\n&lt;/iframe&gt;\n\n&lt;a href=“https://www.canva.com/design/DAGRwrKGhxo/DFyJSp72gAFRLvh1wU3bwA/view?utm_content=DAGRwrKGhxo&utm_campaign=designshare&utm_medium=embeds&utm_source=link” target=“_blank” rel=“noopener”&gt;&lt;/a&gt;"
+  },
+  {
+    "objectID": "video.html#artificial-intelligence-and-society",
+    "href": "video.html#artificial-intelligence-and-society",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "Artificial Intelligence and Society",
+    "text": "Artificial Intelligence and Society\nIn this module, we looked at the benefits and potential downsides of relying on AI. My group focused on leveraging on AI technology to aid in bereavement process. I designed a brochure for a Virtual Memory Garden where users will transported into a virtual space together with their loved ones - as an avatar!\n\n&lt;iframe loading=“lazy” style=“position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;” src=“https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?embed” allowfullscreen=“allowfullscreen” allow=“fullscreen”&gt;\n&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "video.html#savvify---an-automated-savings-platform",
+    "href": "video.html#savvify---an-automated-savings-platform",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "Savvify - An Automated Savings Platform",
+    "text": "Savvify - An Automated Savings Platform\nDuring my time in Temasek Polytechnic, my group mates and I worked on an automated savings platform - ***Savvify***. Essentially, the application helps users to round up your payment transactions to the nearest dollar, and crediting it to the users’ e-wallet upon making QR Payments.\nOur main goal was to bring new solutions e-payment solutions while helping young adults like us, to understand real life responsibilities - improving their financial literacy!"
+  },
+  {
+    "objectID": "video.html#digital-storytelling",
+    "href": "video.html#digital-storytelling",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "Digital Storytelling",
+    "text": "Digital Storytelling\n\nPattoo Tarlour: The Art of the Needle\nHere, we interviewed Pattoo Tarlour, a local tattoo business. We explored the artistry, passion, and personal stories behind tattooing in Singapore.\nThrough interviews with talented artists, visuals of their creative process, and dynamic shots capturing the parlour’s ambiance, the documentary highlights the unique culture and meaningful connections that define the space. It celebrates the cultural and artistic significance of tattooing as both a craft and an expression of identity.\n\n\n\nDay in the Life: Captured Through Film\nDuring a casual cycling session, Marzuki (me) finds himself in an unusual situation -- discovering a photo album and film camera left behind. He takes the opportunity to slow down and capture moments from the day in the lives of everyday people while enjoying his ride."
+  },
+  {
+    "objectID": "video.html#social-thought-and-theory",
+    "href": "video.html#social-thought-and-theory",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "Social Thought and Theory",
+    "text": "Social Thought and Theory\nIn this module, we explored the contributions of the founding fathers of Sociology - Marx, Weber and Durkheim. This Social Media assignment looks into Weber’s ideas found in the The Protestant Work Ethic and the Spirit of Capitalism and Bureaucracy.\nHere, we discussed (in a very Gen-Z way) that we have to be (economically) productive every single minute of our day, how we should be “growing money even in our sleep” is increasingly prevalent today. How everything we do now is to be justified in economic terms and we end up losing meaning, becoming disenchanted in life - Here’s what we did!\n\n&lt;a href=“https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?utm_content=DAF0lbgxhPk&utm_campaign=designshare&utm_medium=embeds&utm_source=link” target=“_blank” rel=“noopener”&gt; &lt;/a&gt;"
+  },
+  {
+    "objectID": "video.html#gigawipes---innovation-through-programming",
+    "href": "video.html#gigawipes---innovation-through-programming",
+    "title": "UX/UI Prototyping and Design Work",
+    "section": "GIGAWipes - Innovation through Programming",
+    "text": "GIGAWipes - Innovation through Programming\n“Innovation does not stop” -- Here, we explored how to incorporate programming in our daily lives. This may or may not be inspired by true events but for this project, we created a prototype of a toilet roll dispenser but… I’ll let the video do the talking…\n\nNot bad aye! Essentially, The lanyard communicates via Bluetooth. this ensures that toilet rolls are filled and readily available for use, maintaining hygiene and convenience in restrooms\n``` ```\n``` ```"
+  },
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "My Past Work",
+    "section": "",
+    "text": "I’ve dabbled in UX/UI design and video editing, mostly picking up these skills on my own because I’m really into it. I love creating cool user experiences and videos that pop, and I’m excited to keep leveling up and bringing more creativity to my work!"
+  },
+  {
+    "objectID": "videos.html#savvify---an-automated-savings-platform",
+    "href": "videos.html#savvify---an-automated-savings-platform",
+    "title": "My Past Work",
+    "section": "Savvify - An Automated Savings Platform",
+    "text": "Savvify - An Automated Savings Platform\nDuring my time in Temasek Polytechnic, my group mates and I worked on an automated savings platform - Savvify. Essentially, the application helps users to round up your payment transactions to the nearest dollar, and crediting it to the users’ e-wallet upon making QR Payments.\nOur main goal was to bring new solutions e-payment solutions while helping young adults like us, to understand real life responsibilities - improving their financial literacy!"
+  },
+  {
+    "objectID": "videos.html#digital-storytelling",
+    "href": "videos.html#digital-storytelling",
+    "title": "My Past Work",
+    "section": "Digital Storytelling",
+    "text": "Digital Storytelling\n\nPattoo Tarlour: The Art of the Needle\nHere, we interviewed Pattoo Tarlour, a local tattoo business. We explored the artistry, passion, and personal stories behind tattooing in Singapore.\nThrough interviews with talented artists, visuals of their creative process, and dynamic shots capturing the parlour’s ambiance, the documentary highlights the unique culture and meaningful connections that define the space. It celebrates the cultural and artistic significance of tattooing as both a craft and an expression of identity.\n\n\n\nDay in the Life: Captured Through Film\nDuring a casual cycling session, Marzuki (me) finds himself in an unusual situation – discovering a photo album and film camera left behind. He takes the opportunity to slow down and capture moments from the day in the lives of everyday people while enjoying his ride."
+  },
+  {
+    "objectID": "videos.html#social-thought-and-theory",
+    "href": "videos.html#social-thought-and-theory",
+    "title": "My Past Work",
+    "section": "Social Thought and Theory",
+    "text": "Social Thought and Theory\nIn this module, we explored the contributions of the founding fathers of Sociology - Marx, Weber and Durkheim. This Social Media assignment looks into Weber’s ideas found in the The Protestant Work Ethic and the Spirit of Capitalism and Bureaucracy.\nHere, we discussed (in a very Gen-Z way) that we have to be (economically) productive every single minute of our day, how we should be “growing money even in our sleep” is increasingly prevalent today. How everything we do now is to be justified in economic terms and we end up losing meaning, becoming disenchanted in life - Here’s what we did!"
+  },
+  {
+    "objectID": "videos.html#gigawipes---innovation-through-programming",
+    "href": "videos.html#gigawipes---innovation-through-programming",
+    "title": "My Past Work",
+    "section": "GIGAWipes - Innovation through Programming",
+    "text": "GIGAWipes - Innovation through Programming\n“Innovation does not stop” – Here, we explored how to incorporate programming in our daily lives. This may or may not be inspired by true events but for this project, we created a prototype of a toilet roll dispenser but… I’ll let the video do the talking…\n\nNot bad aye! Essentially, The lanyard communicates via Bluetooth. this ensures that toilet rolls are filled and readily available for use, maintaining hygiene and convenience in restrooms"
   }
 ]
