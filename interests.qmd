@@ -11,7 +11,7 @@ title: "My Past Work"
 
 ## Interaction Design
 
-### (1) SlideCraft - AI Powered Design Tool - [Try](https://www.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/(Slidecraft)-Hi-Fi-Prototype-Flow?page-id=0%3A1&node-id=1-31&starting-point-node-id=1%3A31&t=Mh9u0WSzDA1yIXVO-1)
+### (1) SlideCraft - AI Design Tool - [Try](https://www.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/(Slidecraft)-Hi-Fi-Prototype-Flow?page-id=0%3A1&node-id=1-31&starting-point-node-id=1%3A31&t=Mh9u0WSzDA1yIXVO-1)
 
 SlideCraft is an AI-powered slide design tool created to simplify the presentation-making process for students and educators. I developed detailed lo-fi and hi-fi prototypes, focusing on features like design consistency, personalized recommendations, and efficiency.
 
