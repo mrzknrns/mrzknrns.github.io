@@ -40,4 +40,6 @@ title: "My Experiences"
 
 ## Contact Details
 
+\[Download My Resume\] [Resume](https://raw.githubusercontent.com/mrzknrns/mrzknrns.github.io/c446afc4b2d7902cfc76a22458cbc7789d1a09d7/MARZUKI_SANIP_RESUME.pdf)
+
 For any opportunities, you can reach me via my email - marzukinooranas\@gmail.com

@@ -5,23 +5,65 @@ title: "My Past Work"
 ```{r, eval=TRUE,echo=FALSE}
 ```
 
-## National University of Singapore
+<br> I've dabbled in UX/UI design and video editing, mostly picking up these skills on my own because I'm really into it. I love creating cool user experiences and videos that pop, and I'm excited to keep leveling up and bringing more creativity to my work!
 
-### Digital Storytelling
+# UX/UI Prototyping and Design Work
 
-During a casual cycling session, Marzuki (me) finds himself in an unusual situation -- discovering a photo album and film camera left behind. He takes the opportunity to slow down and capture moments from the day in the lives of everyday people while enjoying his ride.
+## Interaction Design
 
-{{< video https://www.youtube.com/embed/Nz8UhdKpz-Y?si=FymUgJAb4lcMtJB9 >}}
+### (1) SlideCraft - AI Powered Design Tool
 
-### Social Thought and Theory
+SlideCraft is an AI-powered slide design tool created to simplify the presentation-making process for students and educators. I developed detailed lo-fi and hi-fi prototypes, focusing on features like design consistency, personalized recommendations, and efficiency.
 
-In this module, we explored the contributions of the founding fathers of Sociology - Marx, Weber and Durkheim. This Social Media assignment looks into Weber's ideas found in the The Protestant Work Ethic and the Spirit of Capitalism and Bureaucracy.
+This project emphasized enabling users to focus on content creation while saving time with AI-driven slide suggestions​
 
-Here, we discussed (in a very Gen-Z way) that we have to be (economically) productive every single minute of our day, how we should be "growing money even in our sleep" is increasingly prevalent today. How everything we do now is to be justified in economic terms and we end up losing meaning, becoming disenchanted in life - Here's what we did!
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/(Slidecraft)-Hi-Fi-Prototype-Flow?page-id=0%3A1&amp;node-id=1-31&amp;starting-point-node-id=1%3A31&amp;embed-host=share" allowfullscreen>
 
-{{< video https://www.youtube.com/embed/-SYPjaJoi-I?si=ViXbIgq6TR4Lmbh4 >}}
+</iframe>
 
-### Artificial Intelligence and Society
+### (2) GPTDashboard - Desktop and Mobile View
+
+The ChatGPT Dashboard was designed to help social media content creators streamline their workflow by integrating AI into content generation and tracking. I worked on both lo-fi and hi-fi prototypes, ensuring a smooth user experience across desktop and mobile views.
+
+This project focused on addressing key pain points like burnout and content optimization while providing real-time feedback metrics to help creators stay on top of trends​
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/(ChatGPT-Dashboard)-Hi-Fi-Desktop-View-Prototype-Link%3A?page-id=0%3A1&amp;node-id=1-228&amp;starting-point-node-id=1%3A228&amp;embed-host=share" allowfullscreen>
+
+</iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/XAkmFk4Ob0sKCjq9WicOTn/(ChatGPT-Dashboard)-Hi-Fi-Mobile-View-Prototype-Link%3A?page-id=0%3A1&amp;node-id=1-155&amp;starting-point-node-id=1%3A155&amp;embed-host=share" allowfullscreen>
+
+</iframe>
+
+### (3) SaveWatt
+
+SaveWatt is a digital platform aimed at helping homeowners make smarter, energy-efficient appliance choices amidst rising electricity tariffs. I contributed to the design of a user-friendly interface that consolidates appliance comparison tools, offering personalized recommendations and energy-saving insights.
+
+This project tackled the challenges of decision fatigue and financial strain by providing actionable guidance in a visually engaging way​
+
+Full PortFolio: <https://savewatt.framer.website>
+
+![](src/images/SaveWatt.png)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/33D1uDg1g786wbtU9np2gq/4_G3_Prototype?page-id=3%3A646&amp;node-id=89-2546&amp;starting-point-node-id=89%3A2546&amp;embed-host=share" allowfullscreen>
+
+</iframe>
+
+## TeachSG
+
+For my TeachSG attachment, I created this motivational card specifically for primary school students who were struggling with math. The card was designed to inspire confidence and encourage them as they prepared for their PSLE exams.
+
+Using bright colors, cheerful designs, and a personalized touch with mentor memojis, I aimed to make the card relatable and uplifting, helping the students feel supported and motivated to achieve their best.
+
+::: {style="position: relative; width: 100%; height: 0; padding-top: 56.2225%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAGRwrKGhxo/DFyJSp72gAFRLvh1wU3bwA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+
+</iframe>
+:::
+
+<a href="https://www.canva.com/design/DAGRwrKGhxo/DFyJSp72gAFRLvh1wU3bwA/view?utm_content=DAGRwrKGhxo&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener"></a>
+
+## Artificial Intelligence and Society
 
 In this module, we looked at the benefits and potential downsides of relying on AI. My group focused on leveraging on AI technology to aid in bereavement process. I designed a brochure for a Virtual Memory Garden where users will transported into a virtual space together with their loved ones - as an avatar!
 
@@ -31,11 +73,9 @@ In this module, we looked at the benefits and potential downsides of relying on 
 </iframe>
 :::
 
-<a href="https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?utm_content=DAF0lbgxhPk&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener"> </a>
+# Video Editing and Production Work
 
-### Temasek Polytechnic
-
-### Savvify - An Automated Savings Platform
+## Savvify - An Automated Savings Platform
 
 During my time in Temasek Polytechnic, my group mates and I worked on an automated savings platform - ***Savvify***. Essentially, the application helps users to round up your payment transactions to the nearest dollar, and crediting it to the users' e-wallet upon making QR Payments.
 
@@ -43,7 +83,33 @@ Our main goal was to bring new solutions e-payment solutions while helping young
 
 {{< video https://youtu.be/kzWq31_mRyc >}}
 
-### GIGAWipes - Innovation through Programming
+## Digital Storytelling
+
+#### Pattoo Tarlour: The Art of the Needle
+
+Here, we interviewed Pattoo Tarlour, a local tattoo business. We explored the artistry, passion, and personal stories behind tattooing in Singapore.
+
+Through interviews with talented artists, visuals of their creative process, and dynamic shots capturing the parlour's ambiance, the documentary highlights the unique culture and meaningful connections that define the space. It celebrates the cultural and artistic significance of tattooing as both a craft and an expression of identity.
+
+{{< video https://www.youtube.com/embed/AoD6FvMuHxk?si=t2d06a4Opw8NPRXV >}}
+
+#### Day in the Life: Captured Through Film
+
+During a casual cycling session, Marzuki (me) finds himself in an unusual situation -- discovering a photo album and film camera left behind. He takes the opportunity to slow down and capture moments from the day in the lives of everyday people while enjoying his ride.
+
+{{< video https://www.youtube.com/embed/Nz8UhdKpz-Y?si=FymUgJAb4lcMtJB9 >}}
+
+## Social Thought and Theory
+
+In this module, we explored the contributions of the founding fathers of Sociology - Marx, Weber and Durkheim. This Social Media assignment looks into Weber's ideas found in the The Protestant Work Ethic and the Spirit of Capitalism and Bureaucracy.
+
+Here, we discussed (in a very Gen-Z way) that we have to be (economically) productive every single minute of our day, how we should be "growing money even in our sleep" is increasingly prevalent today. How everything we do now is to be justified in economic terms and we end up losing meaning, becoming disenchanted in life - Here's what we did!
+
+{{< video https://www.youtube.com/embed/-SYPjaJoi-I?si=ViXbIgq6TR4Lmbh4 >}}
+
+<a href="https://www.canva.com/design/DAF0lbgxhPk/jKGt5Uqtio2trLaLP-h9tw/view?utm_content=DAF0lbgxhPk&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener"> </a>
+
+## GIGAWipes - Innovation through Programming
 
 "Innovation does not stop" -- Here, we explored how to incorporate programming in our daily lives. This may or may not be inspired by true events but for this project, we created a prototype of a toilet roll dispenser but... I'll let the video do the talking...
 
@@ -54,4 +120,5 @@ Not bad aye! Essentially, The lanyard communicates via Bluetooth. this ensures t
 ```         
 ```
 
-![](src/images/footer.png)
+```         
+```

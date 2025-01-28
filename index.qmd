@@ -12,7 +12,7 @@ title: "Well Hello There!"
 
 ## My Hello to You \~\~
 
-Hello there! My name is Marzuki Nooranas - or *Marz* for short! I am currently in my 3rd year, double majoring in Sociology and Communications & New Media!
+Hello there! My name is Marzuki Nooranas \[[Resume](https://raw.githubusercontent.com/mrzknrns/mrzknrns.github.io/c446afc4b2d7902cfc76a22458cbc7789d1a09d7/MARZUKI_SANIP_RESUME.pdf)\] - or *Marz* for short! I am currently in my 3rd year, majoring in Sociology and Interactive Media Development!
 
 I have always been fascinated by how society functions and its intricate connections, my passion for understanding the world around us, is driven by a desire to foster meaningful connections within all communities!
 
@@ -87,6 +87,13 @@ body, html {
 
 ## Contact Details
 
-For any opportunities, you can reach me via my email - marzukinooranas\@gmail.com or visit my [LinkedIn Page](https://www.linkedin.com/in/marzuki-nooranas-b5947b17a/)
+For any opportunities:
 
-![](src/images/footer.png)
+Email - marzukinooranas\@gmail.com
+
+Linkedin - [Marzuki Nooranas](https://www.linkedin.com/in/marzuki-nooranas-b5947b17a/)
+
+Resume - [Download](https://raw.githubusercontent.com/mrzknrns/mrzknrns.github.io/c446afc4b2d7902cfc76a22458cbc7789d1a09d7/MARZUKI_SANIP_RESUME.pdf)
+
+```         
+```
