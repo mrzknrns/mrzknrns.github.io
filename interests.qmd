@@ -17,7 +17,7 @@ SlideCraft is an AI-powered slide design tool created to simplify the presentati
 
 This project emphasized enabling users to focus on content creation while saving time with AI-driven slide suggestions.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/(Slidecraft)-Hi-Fi-Prototype-Flow?page-id=0%3A1&amp;node-id=1-31&amp;starting-point-node-id=1%3A31&amp;embed-host=share" allowfullscreen>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/4o0fMCNtIOXtFuupnMgmlU/Slidecraft-Hi-Fi-Prototype-Flow?page-id=0%3A1&amp;node-id=1-31&amp;starting-point-node-id=1%3A31&amp;embed-host=share">
 
 </iframe>
 
@@ -27,9 +27,12 @@ The ChatGPT Dashboard was designed to help social media content creators streaml
 
 This project focused on addressing key pain points like burnout and content optimization while providing real-time feedback metrics to help creators stay on top of trends​
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/(ChatGPT-Dashboard)-Hi-Fi-Desktop-View-Prototype-Link%3A?page-id=0%3A1&amp;node-id=1-228&amp;starting-point-node-id=1%3A228&amp;embed-host=share" allowfullscreen>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" 
+src="https://embed.figma.com/proto/LZcst4QtAgGJgik4eHhaRb/ChatGPT-Dashboard-Hi-Fi-Desktop-View-Prototype-Link?page-id=0%3A1&node-id=1-228&starting-point-node-id=1%3A228&embed-host=share" 
+allowfullscreen>
 
 </iframe>
+
 
 ### (3) SaveWatt
 
@@ -41,9 +44,12 @@ Full PortFolio: <https://savewatt.framer.website>
 
 ![](src/images/SaveWatt.png)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/33D1uDg1g786wbtU9np2gq/4_G3_Prototype?page-id=3%3A646&amp;node-id=89-2546&amp;starting-point-node-id=89%3A2546&amp;embed-host=share" allowfullscreen>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" 
+src="https://embed.figma.com/proto/33D1uDg1g786wbtU9np2gq/4_G3_Prototype?page-id=3%3A646&node-id=89-2546&starting-point-node-id=89%3A2546&embed-host=share" 
+allowfullscreen>
 
 </iframe>
+
 
 ## TeachSG
 
@@ -68,6 +74,7 @@ In this module, we looked at the benefits and potential downsides of relying on 
 
 </iframe>
 :::
+
 ```         
 ```
 
