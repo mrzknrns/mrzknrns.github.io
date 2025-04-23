@@ -9,6 +9,14 @@ title: "My Past Work"
 
 # Video Editing and Production Work
 
+## Nature Versus Nurture - Podcast Debate in Animation Style
+
+For this project, I focused on experimenting with animation and editing techniques to create a visually engaging, debate-style segment on the topic of transgender athletes in competitive sports. I used Canva for design elements, CapCut for assembling motion sequences, and Final Cut Pro for final compositing and audio syncing.
+
+This was a creative testbed where I explored how layered visuals and stylized transitions could enhance both the clarity and emotional tone of the arguments presented---turning complex social commentary into an accessible and compelling visual narrative.
+
+{{< video https://www.youtube.com/embed/n0J641t6IUE?si=qjfJfLo7WTwzktS1 >}}
+
 ## Savvify - An Automated Savings Platform
 
 During my time in Temasek Polytechnic, my group mates and I worked on an automated savings platform - ***Savvify***. Essentially, the application helps users to round up your payment transactions to the nearest dollar, and crediting it to the users' e-wallet upon making QR Payments.
