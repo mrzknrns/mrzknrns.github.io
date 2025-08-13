@@ -53,6 +53,7 @@ To demonstrate this, I embark on frequent backpacking trips across Southeast Asi
   }
 </style>
 ```
+
 ::: tiktok-container
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@mentaikofries_/video/7181240142063996161" data-video-id="7181240142063996161">
 
@@ -86,6 +87,7 @@ To demonstrate this, I embark on frequent backpacking trips across Southeast Asi
 ```{=html}
 <script async src="https://www.tiktok.com/embed.js"></script>
 ```
+
 ## Contact Details
 
 For any opportunities:
@@ -94,7 +96,7 @@ Email - marzukinooranas\@gmail.com
 
 Linkedin - [Marzuki Nooranas](https://www.linkedin.com/in/marzuki-nooranas-b5947b17a/)
 
-Resume - [Download](https://raw.githubusercontent.com/mrzknrns/mrzknrns.github.io/c446afc4b2d7902cfc76a22458cbc7789d1a09d7/MARZUKI_SANIP_RESUME.pdf)
+Resume - [Download](MARZUKI_SANIP_RESUME_Updated.pdf)
 
 ```         
 ```
